@@ -5,12 +5,18 @@ from datetime import datetime
 from typing import List
 from pathlib import Path
 
-def launch_client(cluster_id: int, store_id: int) -> subprocess.Popen:
+def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subprocess.Popen:
     """
     Launch a single client process for the given cluster_id and store_id.
     """
     try:
-        cmd = ["python", "run_client.py", str(cluster_id), str(store_id)]
+        cmd = [
+            "python",
+               "run_client.py",
+               str(cluster_id),
+               str(store_id),
+               log_file_path
+        ]
         proc = subprocess.Popen(
             cmd,
             stdout=subprocess.PIPE,
@@ -36,8 +42,9 @@ def wait_for_processes(processes: List[subprocess.Popen]) -> None:
 
 def main():
 
+    # Shared timestamp for all cluster log filenames this run
     run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    log_file_path = f"../logs/clients_{run_timestamp}.log"
+
 
     FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
     if not FEDERATED_DATA_DIR.exists():
@@ -48,7 +55,7 @@ def main():
     active_processes: List[subprocess.Popen] = []
     total_launched = 0
 
-    # Iterate over cluster folders
+    # Iterate over cluster folders (e.g. cluster_0, cluster_1, etc.)
     for cluster_folder in sorted(FEDERATED_DATA_DIR.glob("cluster_*")):
         if not cluster_folder.is_dir():
             continue
@@ -60,13 +67,18 @@ def main():
             logging.warning(f"Skipping folder {cluster_folder}, cannot parse cluster ID.")
             continue
 
-        # For each .pkl file: "store_{store_id}.pkl"
+        # Create a SINGLE log file path for this cluster
+        # e.g. "../logs/clients_cluster_0_20250326_125000.log"
+        cluster_log_filename = f"clients_cluster_{cluster_id}_{run_timestamp}.log"
+        cluster_log_filepath = str(Path("..") / "logs" / cluster_log_filename)
+
+        # For each store in this cluster
         for data_file in sorted(cluster_folder.glob("store_*.pkl")):
-            store_id_str = data_file.stem.split("_")[1]  # store_123 -> "123"
+            store_id_str = data_file.stem.split("_")[1]  # e.g. "store_123" -> "123"
             store_id = int(store_id_str)
 
-            # Launch one client
-            proc = launch_client(cluster_id, store_id)
+            # Launch one client with the shared cluster log path
+            proc = launch_client(cluster_id, store_id, cluster_log_filepath)
             if proc:
                 active_processes.append(proc)
                 total_launched += 1
@@ -77,10 +89,10 @@ def main():
                 wait_for_processes(active_processes)
                 active_processes.clear()
 
-            # Small pause to avoid overwhelming the system
+            # Small pause to avoid launching processes too quickly
             time.sleep(0.1)
 
-    # Wait for any leftover processes
+    # Wait for any leftover processes after the loop
     if active_processes:
         logging.info(f"Waiting for the last {len(active_processes)} clients to finish...")
         wait_for_processes(active_processes)
@@ -89,4 +101,4 @@ def main():
     logging.info(f"All done! Total clients launched: {total_launched}")
 
 if __name__ == "__main__":
-    main()
+        main()
