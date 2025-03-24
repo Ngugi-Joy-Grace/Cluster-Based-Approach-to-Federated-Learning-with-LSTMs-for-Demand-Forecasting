@@ -1,37 +1,36 @@
-import flwr as fl
-import numpy as np
-import pandas as pd
 import sys
+import logging
+import flwr as fl
+from pathlib import Path
+
 from client import StoreClient
 
-def load_store_data(store_id, cluster_id):
-    """
-    Loads and prepares the dataset for a given store from stored CSV files.
-
-    Args:
-        store_id (int): ID of the store.
-        cluster_id (int): ID of the cluster.
-
-    Returns:
-        Tuple: Training and validation datasets.
-    """
-    file_path = f'../data/federated_data/cluster_{cluster_id}/store_{store_id}.csv'
-    store_df = pd.read_csv(file_path)
-
-    X = store_df.drop(['Sales', 'Date', 'Store', 'Cluster'], axis=1).values
-    y = store_df['Sales'].values
-    X = X.reshape(X.shape[0], 1, X.shape[1])
-
-    split_idx = int(len(X) * 0.8)
-    return (X[:split_idx], y[:split_idx]), (X[split_idx:], y[split_idx:])
-
 if __name__ == "__main__":
-    store_id = int(sys.argv[1])
-    cluster_id = int(sys.argv[2])
+    # Configure logging
+    logging.basicConfig(level=logging.INFO)
 
-    train_data, val_data = load_store_data(store_id, cluster_id)
+    if len(sys.argv) != 3:
+        print("Usage: python run_client.py <cluster_id> <store_id>")
+        sys.exit(1)
 
-    fl.client.start_numpy_client(
-        server_address="[::]:8080",
-        client=StoreClient(train_data, val_data)
+    cluster_id = int(sys.argv[1])
+    store_id = int(sys.argv[2])
+
+    # Path to the folder containing cluster_{cluster_id}/store_{store_id}.pkl
+    FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
+
+    # Create a client instance
+    client = StoreClient(cluster_id, store_id, FEDERATED_DATA_DIR)
+
+    # Determine which server port to use.
+    # For example, cluster 0 -> 8080, cluster 1 -> 8081, cluster 2 -> 8082
+    server_port = 8080 + cluster_id
+    server_address = f"127.0.0.1:{server_port}"
+
+    logging.info(f"[Store {store_id}, Cluster {cluster_id}] Connecting to {server_address} ...")
+
+    # Modern (non-deprecated) way to start the client
+    fl.client.start_client(
+        server_address=server_address,
+        client=client.to_client()
     )
