@@ -2,16 +2,26 @@ import logging
 from pathlib import Path
 from datetime import datetime
 
+def get_run_timestamp_dir() -> Path:
+    """
+    Creates and returns a timestamped directory for the current run.
+    
+    Returns:
+        Path: Directory path for the current run's logs
+    """
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    logs_dir = Path("../logs")
+    run_dir = logs_dir / f"run_{timestamp}"
+    run_dir.mkdir(parents=True, exist_ok=True)
+    return run_dir
+
 def setup_server_logging(cluster_id: int):
     """
-    Configure logging for a server. Each cluster server logs to 'server_cluster_{cluster_id}.log'.
-    Add a timestamp if you prefer unique filenames per run.
+    Configure logging for a server. Each cluster server logs to 'server_cluster_{cluster_id}.log'
+    within a timestamped run directory.
     """
-    logs_dir = Path("../logs")
-    logs_dir.mkdir(exist_ok=True)
-
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    log_filename = logs_dir / f"server_cluster_{cluster_id}_{timestamp}.log"
+    run_dir = get_run_timestamp_dir()
+    log_filename = run_dir / f"server_cluster_{cluster_id}.log"
 
     logging.basicConfig(
         level=logging.DEBUG,
@@ -22,19 +32,21 @@ def setup_server_logging(cluster_id: int):
             logging.StreamHandler()
         ]
     )
-    # Because we used '%(cluster_id)d' in the format, we must supply it via extra or by changing the format.
-    # Easiest fix: remove '%(cluster_id)d' in the format, or we do an override below:
+
     for handler in logging.getLogger().handlers:
         handler.addFilter(_ClusterFilter(cluster_id))
 
     logging.info(f"[Server {cluster_id}] Logging initialized -> {log_filename}")
 
-
 def setup_clients_logging(log_file_path: str, cluster_id: int):
-    logs_dir = Path("../logs")
-    logs_dir.mkdir(exist_ok=True)
-
-    full_path = logs_dir / log_file_path  # e.g. "../logs/clients_cluster_0.log"
+    """
+    Configure logging for clients within a timestamped run directory.
+    """
+    run_dir = get_run_timestamp_dir()
+    
+    # Extract just the filename from the path and place it in the run directory
+    log_filename = Path(log_file_path).name
+    full_path = run_dir / log_filename
 
     logging.basicConfig(
         level=logging.DEBUG,

@@ -4,6 +4,7 @@ import time
 from datetime import datetime
 from typing import List
 from pathlib import Path
+from configs.logging_config import get_run_timestamp_dir
 
 def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subprocess.Popen:
     """
@@ -12,10 +13,10 @@ def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subproc
     try:
         cmd = [
             "python",
-               "run_client.py",
-               str(cluster_id),
-               str(store_id),
-               log_file_path
+            "run_client.py",
+            str(cluster_id),
+            str(store_id),
+            log_file_path
         ]
         proc = subprocess.Popen(
             cmd,
@@ -41,10 +42,18 @@ def wait_for_processes(processes: List[subprocess.Popen]) -> None:
                 logging.error(f"Error output: {stderr}")
 
 def main():
+    # Get the run directory for this execution
+    run_dir = get_run_timestamp_dir()
 
-    # Shared timestamp for all cluster log filenames this run
-    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-
+    # Setup logging for the run_all_client script itself
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        handlers=[
+            logging.FileHandler(run_dir / "run_all_clients.log"),
+            logging.StreamHandler()
+        ]
+    )
 
     FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
     if not FEDERATED_DATA_DIR.exists():
@@ -55,44 +64,36 @@ def main():
     active_processes: List[subprocess.Popen] = []
     total_launched = 0
 
-    # Iterate over cluster folders (e.g. cluster_0, cluster_1, etc.)
+    # Iterate over cluster folders
     for cluster_folder in sorted(FEDERATED_DATA_DIR.glob("cluster_*")):
         if not cluster_folder.is_dir():
             continue
 
-        # Parse cluster_id from folder name "cluster_#"
         try:
             cluster_id = int(cluster_folder.name.split("_")[1])
         except ValueError:
             logging.warning(f"Skipping folder {cluster_folder}, cannot parse cluster ID.")
             continue
 
-        # Create a SINGLE log file path for this cluster
-        # e.g. "../logs/clients_cluster_0_20250326_125000.log"
-        cluster_log_filename = f"clients_cluster_{cluster_id}_{run_timestamp}.log"
-        cluster_log_filepath = str(Path("..") / "logs" / cluster_log_filename)
-
-        # For each store in this cluster
+        # Create log filename for this cluster's clients
+        cluster_log_filename = f"clients_cluster_{cluster_id}.log"
+        # The actual path will be determined by the logging config
+        
         for data_file in sorted(cluster_folder.glob("store_*.pkl")):
-            store_id_str = data_file.stem.split("_")[1]  # e.g. "store_123" -> "123"
-            store_id = int(store_id_str)
-
-            # Launch one client with the shared cluster log path
-            proc = launch_client(cluster_id, store_id, cluster_log_filepath)
+            store_id = int(data_file.stem.split("_")[1])
+            
+            proc = launch_client(cluster_id, store_id, cluster_log_filename)
             if proc:
                 active_processes.append(proc)
                 total_launched += 1
 
-            # Throttle concurrency
             if len(active_processes) >= MAX_CONCURRENT_CLIENTS:
                 logging.info(f"Waiting for {len(active_processes)} clients to finish...")
                 wait_for_processes(active_processes)
                 active_processes.clear()
 
-            # Small pause to avoid launching processes too quickly
             time.sleep(0.1)
 
-    # Wait for any leftover processes after the loop
     if active_processes:
         logging.info(f"Waiting for the last {len(active_processes)} clients to finish...")
         wait_for_processes(active_processes)
@@ -101,4 +102,4 @@ def main():
     logging.info(f"All done! Total clients launched: {total_launched}")
 
 if __name__ == "__main__":
-        main()
+    main()
