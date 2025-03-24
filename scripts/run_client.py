@@ -4,6 +4,7 @@ import flwr as fl
 from pathlib import Path
 
 from client import StoreClient
+from configs.logging_config import setup_clients_logging
 
 if __name__ == "__main__":
     # Configure logging
@@ -15,6 +16,9 @@ if __name__ == "__main__":
 
     cluster_id = int(sys.argv[1])
     store_id = int(sys.argv[2])
+
+    # Initialize single-file logging for all clients
+    setup_clients_logging(cluster_id)
 
     # Path to the folder containing cluster_{cluster_id}/store_{store_id}.pkl
     FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"

@@ -1,6 +1,7 @@
 import subprocess
 import logging
 import time
+from datetime import datetime
 from typing import List
 from pathlib import Path
 
@@ -34,7 +35,9 @@ def wait_for_processes(processes: List[subprocess.Popen]) -> None:
                 logging.error(f"Error output: {stderr}")
 
 def main():
-    logging.basicConfig(level=logging.INFO)
+
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file_path = f"../logs/clients_{run_timestamp}.log"
 
     FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
     if not FEDERATED_DATA_DIR.exists():

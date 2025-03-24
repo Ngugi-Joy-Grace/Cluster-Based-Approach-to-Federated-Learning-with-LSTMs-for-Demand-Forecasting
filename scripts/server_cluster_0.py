@@ -1,6 +1,9 @@
 import flwr as fl
+from configs.logging_config import setup_server_logging
 
 if __name__ == "__main__":
+    cluster_id = 0
+    setup_server_logging(cluster_id)
     # Define federated averaging strategy
     strategy = fl.server.strategy.FedAvg(
         # Adjust these as needed
