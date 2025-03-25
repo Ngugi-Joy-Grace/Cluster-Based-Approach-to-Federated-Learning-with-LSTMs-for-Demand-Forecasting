@@ -1,10 +1,10 @@
 import subprocess
 import logging
 import time
-from datetime import datetime
 from typing import List
 from pathlib import Path
 from configs.logging_config import get_run_timestamp_dir
+
 
 def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subprocess.Popen:
     """
@@ -12,8 +12,7 @@ def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subproc
     """
     try:
         cmd = [
-            "python",
-            "run_client.py",
+            "python", "run_client.py",
             str(cluster_id),
             str(store_id),
             log_file_path
@@ -30,6 +29,7 @@ def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subproc
         logging.error(f"Failed to launch client for Cluster={cluster_id}, Store={store_id}: {e}")
         return None
 
+
 def wait_for_processes(processes: List[subprocess.Popen]) -> None:
     """Wait for processes to complete, logging any errors."""
     for proc in processes:
@@ -40,10 +40,22 @@ def wait_for_processes(processes: List[subprocess.Popen]) -> None:
             logging.error(f"Process failed with return code {proc.returncode}")
             if stderr:
                 logging.error(f"Error output: {stderr}")
+        else:
+            logging.info(f"Client completed successfully.")
+        if stdout:
+            logging.debug(f"Process output: {stdout.strip()}")
+
+def clear_existing_handlers():
+    root_logger = logging.getLogger()
+    while root_logger.handlers:
+        root_logger.removeHandler(root_logger.handlers[0])
+
 
 def main():
     # Get the run directory for this execution
     run_dir = get_run_timestamp_dir()
+
+    clear_existing_handlers()
 
     # Setup logging for the run_all_client script itself
     logging.basicConfig(
@@ -78,21 +90,24 @@ def main():
         # Create log filename for this cluster's clients
         cluster_log_filename = f"clients_cluster_{cluster_id}.log"
         # The actual path will be determined by the logging config
-        
+
+        # For each store in this cluster
         for data_file in sorted(cluster_folder.glob("store_*.pkl")):
             store_id = int(data_file.stem.split("_")[1])
-            
+
+            # Launch a client for (cluster_id, store_id)
             proc = launch_client(cluster_id, store_id, cluster_log_filename)
             if proc:
                 active_processes.append(proc)
                 total_launched += 1
 
+            # Throttle concurrency
             if len(active_processes) >= MAX_CONCURRENT_CLIENTS:
-                logging.info(f"Waiting for {len(active_processes)} clients to finish...")
+                logging.info(f"Waiting for {len(active_processes)} clients to finish (concurrency limit).")
                 wait_for_processes(active_processes)
                 active_processes.clear()
 
-            time.sleep(0.1)
+            time.sleep(0.1) # small delay between launches
 
     if active_processes:
         logging.info(f"Waiting for the last {len(active_processes)} clients to finish...")
@@ -100,6 +115,7 @@ def main():
         active_processes.clear()
 
     logging.info(f"All done! Total clients launched: {total_launched}")
+
 
 if __name__ == "__main__":
     main()

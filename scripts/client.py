@@ -3,7 +3,6 @@ import pickle
 from pathlib import Path
 import flwr as fl
 import numpy as np
-
 from model import build_lstm_model
 
 
@@ -62,11 +61,15 @@ class StoreClient(fl.client.NumPyClient):
         x_train, y_train = data["train"]
         x_val, y_val = data["val"]
 
-        # Reshape if needed: if your data is 2D,
-        # but you want (samples, timesteps=1, features)
-        if len(x_train.shape) == 2:
-            x_train = x_train.reshape((x_train.shape[0], 1, x_train.shape[1]))
-            x_val = x_val.reshape((x_val.shape[0], 1, x_val.shape[1]))
+        # Verify the shapes are correct
+        expected_timesteps = 7  # 7 days of data
+        if len(x_train.shape) != 3 or x_train.shape[1] != expected_timesteps:
+            error_msg = f"Invalid shape for x_train: expected (*, {expected_timesteps}, features), got {x_train.shape}"
+            logging.error(error_msg)
+            raise ValueError(error_msg)
+
+        logging.info(f"x_train shape: {x_train.shape}, y_train shape: {y_train.shape}")
+        logging.info(f"x_val shape: {x_val.shape}, y_val shape: {y_val.shape}")
 
         return x_train, y_train, x_val, y_val
 
@@ -106,3 +109,13 @@ class StoreClient(fl.client.NumPyClient):
 
         # Return (loss, number_of_validation_samples, metrics_dict)
         return loss, len(self.x_val), {"mae": mae}
+
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+    client = StoreClient(cluster_id=0, store_id=1, data_dir=Path("../data/federated_data"))
+    logging.info("Testing single-client local training...")
+    client.model.fit(client.x_train, client.y_train, epochs=1, batch_size=32)
+    loss, mae = client.model.evaluate(client.x_val, client.y_val)
+    logging.info(f"Single-client test complete - Loss: {loss:.4f}, MAE: {mae:.4f}")

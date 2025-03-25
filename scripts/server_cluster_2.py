@@ -36,20 +36,20 @@ if __name__ == "__main__":
     cluster_id = 2
     setup_server_logging(cluster_id)
     
-    # Define federated averaging strategy
     strategy = fl.server.strategy.FedAvg(
         min_available_clients=2,
-        fraction_fit=1.0,
-        fraction_evaluate=1.0,
+        fraction_fit=0.27,
+        fraction_evaluate=0.27,
         min_fit_clients=2,
         min_evaluate_clients=2,
         fit_metrics_aggregation_fn=aggregate_metrics,
         evaluate_metrics_aggregation_fn=aggregate_metrics
     )
 
-    # Start Flower server
+  
+   # Start the server application listening at 127.0.0.1:8082
     fl.server.start_server(
-        server_address="127.0.0.1:8082",
         config=fl.server.ServerConfig(num_rounds=10),
-        strategy=strategy
+        strategy=strategy,
+        server_address="127.0.0.1:8082"
     )

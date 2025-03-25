@@ -9,7 +9,7 @@ from configs.logging_config import setup_clients_logging
 if __name__ == "__main__":
     # Check if the correct number of arguments was passed
     if len(sys.argv) != 4:
-        print("Usage: python run_client.py <cluster_id> <store_id>")
+        print("Usage: python run_client.py <cluster_id> <store_id><log_file_path>")
         sys.exit(1)
 
     cluster_id = int(sys.argv[1])
