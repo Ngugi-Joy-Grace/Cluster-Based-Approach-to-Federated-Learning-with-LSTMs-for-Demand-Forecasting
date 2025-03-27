@@ -1,9 +1,17 @@
 import subprocess
 import logging
+import threading
 import time
 from typing import List
 from pathlib import Path
 from configs.logging_config import get_run_timestamp_dir
+
+
+def stream_process_output(proc: subprocess.Popen, name: str):
+    if proc.stdout is None:
+        return
+    for line in proc.stdout:
+        logging.info(f"[{name}] {line.rstrip()}")
 
 
 def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subprocess.Popen:
@@ -20,30 +28,20 @@ def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subproc
         proc = subprocess.Popen(
             cmd,
             stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
             universal_newlines=True
         )
         logging.info(f"Launched client for Cluster={cluster_id}, Store={store_id}")
+        # Stream output in a background thread, non-blocking
+        t = threading.Thread(target=stream_process_output, args=(proc, f"Client-{cluster_id}-{store_id}"), daemon=True)
+        t.start()
+
         return proc
     except subprocess.SubprocessError as e:
         logging.error(f"Failed to launch client for Cluster={cluster_id}, Store={store_id}: {e}")
         return None
 
 
-def wait_for_processes(processes: List[subprocess.Popen]) -> None:
-    """Wait for processes to complete, logging any errors."""
-    for proc in processes:
-        if proc is None:
-            continue
-        stdout, stderr = proc.communicate()
-        if proc.returncode != 0:
-            logging.error(f"Process failed with return code {proc.returncode}")
-            if stderr:
-                logging.error(f"Error output: {stderr}")
-        else:
-            logging.info(f"Client completed successfully.")
-        if stdout:
-            logging.debug(f"Process output: {stdout.strip()}")
 
 def clear_existing_handlers():
     root_logger = logging.getLogger()
@@ -72,7 +70,7 @@ def main():
         logging.error(f"Federated data directory not found at {FEDERATED_DATA_DIR}")
         return
 
-    MAX_CONCURRENT_CLIENTS = 50
+    MAX_CONCURRENT_CLIENTS = 15
     active_processes: List[subprocess.Popen] = []
     total_launched = 0
 
@@ -104,15 +102,26 @@ def main():
             # Throttle concurrency
             if len(active_processes) >= MAX_CONCURRENT_CLIENTS:
                 logging.info(f"Waiting for {len(active_processes)} clients to finish (concurrency limit).")
-                wait_for_processes(active_processes)
-                active_processes.clear()
+                # Wait for them to exit
+                # But do a short wait or poll until they finish, rather than blocking for indefinite time.
+                while any(p.poll() is None for p in active_processes):
+                    still_running = sum(p.poll() is None for p in active_processes)
+                    logging.info(f"{still_running} processes still running...")
+                    time.sleep(2)
+                    # Remove completed
+                    active_processes = [p for p in active_processes if p.poll() is None]
 
-            time.sleep(0.1) # small delay between launches
+        time.sleep(0.1) # small delay between launches
 
-    if active_processes:
-        logging.info(f"Waiting for the last {len(active_processes)} clients to finish...")
-        wait_for_processes(active_processes)
-        active_processes.clear()
+        #  After all stores in all clusters are launched, wait for the last batch to finish
+        if active_processes:
+            logging.info(f"Waiting for the last {len(active_processes)} clients to finish...")
+            while any(p.poll() is None for p in active_processes):
+                still_running = sum(p.poll() is None for p in active_processes)
+                logging.info(f"{still_running} processes still running in final batch...")
+                time.sleep(2)
+                # Remove completed
+                active_processes = [p for p in active_processes if p.poll() is None]
 
     logging.info(f"All done! Total clients launched: {total_launched}")
 

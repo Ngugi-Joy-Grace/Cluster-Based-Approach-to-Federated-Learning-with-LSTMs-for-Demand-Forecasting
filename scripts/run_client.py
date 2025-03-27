@@ -23,7 +23,7 @@ if __name__ == "__main__":
     FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
 
     # Create a client instance
-    client = StoreClient(cluster_id, store_id, FEDERATED_DATA_DIR)
+    client_instance = StoreClient(cluster_id, store_id, FEDERATED_DATA_DIR)
 
     # Determine which server port to use.
     # For example, cluster 0 -> 8080, cluster 1 -> 8081, cluster 2 -> 8082
@@ -32,8 +32,8 @@ if __name__ == "__main__":
 
     logging.info(f"[Store {store_id}, Cluster {cluster_id}] Connecting to {server_address} ...")
 
-    # Modern (non-deprecated) way to start the client
+    # Start the client
     fl.client.start_client(
         server_address=server_address,
-        client=client.to_client()
+        client=client_instance.to_client()
     )

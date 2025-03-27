@@ -3,8 +3,7 @@ from configs.logging_config import setup_server_logging
 from typing import Dict, List, Tuple, Optional
 
 def aggregate_metrics(
-    results: List[Tuple[Optional[bytes], int, Dict[str, float]]],
-    failures: List[BaseException]
+    results: List[Tuple[Optional[bytes], int, Dict[str, float]]]
 ) -> Dict[str, float]:
     """
     Aggregate metrics across all clients using weighted average based on number of examples.
@@ -20,14 +19,14 @@ def aggregate_metrics(
         return {}
 
     metrics_dict = {}
-    total_examples = sum(num_examples for _, num_examples, _ in results)
+    total_examples = sum(num_examples for num_examples, _ in results)
 
     # Calculate weighted metrics
-    for _, num_examples, metrics in results:
-        weight = num_examples / total_examples
+    for (num_examples, metrics) in results:
+        weight = num_examples / total_examples if total_examples > 0 else 0.0
         for metric_name, metric_value in metrics.items():
             metrics_dict[metric_name] = (
-                metrics_dict.get(metric_name, 0.0) + metric_value * weight
+                    metrics_dict.get(metric_name, 0.0) + metric_value * weight
             )
 
     return metrics_dict
@@ -38,11 +37,11 @@ if __name__ == "__main__":
 
     # Define federated averaging strategy
     strategy = fl.server.strategy.FedAvg(
-        min_available_clients=2,
-        fraction_fit=0.07,
-        fraction_evaluate=0.07,
-        min_fit_clients=2,
-        min_evaluate_clients=2,
+        min_available_clients=10,
+        fraction_fit=0.015,
+        fraction_evaluate=0.015,
+        min_fit_clients=10,
+        min_evaluate_clients=10,
         fit_metrics_aggregation_fn=aggregate_metrics,
         evaluate_metrics_aggregation_fn=aggregate_metrics
     )

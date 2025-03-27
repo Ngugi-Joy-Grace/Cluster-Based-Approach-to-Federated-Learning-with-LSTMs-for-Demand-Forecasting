@@ -108,7 +108,7 @@ class StoreClient(fl.client.NumPyClient):
         logging.info(f"[Store {self.store_id}] Evaluation - Loss: {loss:.4f}, MAE: {mae:.4f}")
 
         # Return (loss, number_of_validation_samples, metrics_dict)
-        return loss, len(self.x_val), {"mae": mae}
+        return loss, len(self.x_val), {"mae": float(mae)}
 
 
 if __name__ == "__main__":
