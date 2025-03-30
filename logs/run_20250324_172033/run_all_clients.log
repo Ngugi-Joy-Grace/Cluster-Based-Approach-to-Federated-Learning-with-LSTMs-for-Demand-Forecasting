@@ -1,0 +1,1147 @@
+2025-03-24 17:20:44,492 - INFO - Launched client for Cluster=0, Store=1
+2025-03-24 17:20:44,595 - INFO - Launched client for Cluster=0, Store=10
+2025-03-24 17:20:44,702 - INFO - Launched client for Cluster=0, Store=1001
+2025-03-24 17:20:44,805 - INFO - Launched client for Cluster=0, Store=1002
+2025-03-24 17:20:44,912 - INFO - Launched client for Cluster=0, Store=1003
+2025-03-24 17:20:45,019 - INFO - Launched client for Cluster=0, Store=1005
+2025-03-24 17:20:45,122 - INFO - Launched client for Cluster=0, Store=1006
+2025-03-24 17:20:45,225 - INFO - Launched client for Cluster=0, Store=1007
+2025-03-24 17:20:45,332 - INFO - Launched client for Cluster=0, Store=1008
+2025-03-24 17:20:45,440 - INFO - Launched client for Cluster=0, Store=101
+2025-03-24 17:20:45,553 - INFO - Launched client for Cluster=0, Store=1011
+2025-03-24 17:20:45,660 - INFO - Launched client for Cluster=0, Store=1013
+2025-03-24 17:20:45,768 - INFO - Launched client for Cluster=0, Store=1015
+2025-03-24 17:20:45,877 - INFO - Launched client for Cluster=0, Store=1016
+2025-03-24 17:20:45,986 - INFO - Launched client for Cluster=0, Store=1017
+2025-03-24 17:20:46,093 - INFO - Launched client for Cluster=0, Store=102
+2025-03-24 17:20:46,201 - INFO - Launched client for Cluster=0, Store=1022
+2025-03-24 17:20:46,304 - INFO - Launched client for Cluster=0, Store=1023
+2025-03-24 17:20:46,413 - INFO - Launched client for Cluster=0, Store=1024
+2025-03-24 17:20:46,519 - INFO - Launched client for Cluster=0, Store=1025
+2025-03-24 17:20:46,624 - INFO - Launched client for Cluster=0, Store=1028
+2025-03-24 17:20:46,732 - INFO - Launched client for Cluster=0, Store=1029
+2025-03-24 17:20:46,841 - INFO - Launched client for Cluster=0, Store=103
+2025-03-24 17:20:46,951 - INFO - Launched client for Cluster=0, Store=1030
+2025-03-24 17:20:47,060 - INFO - Launched client for Cluster=0, Store=1031
+2025-03-24 17:20:47,171 - INFO - Launched client for Cluster=0, Store=1034
+2025-03-24 17:20:47,280 - INFO - Launched client for Cluster=0, Store=1035
+2025-03-24 17:20:47,385 - INFO - Launched client for Cluster=0, Store=1036
+2025-03-24 17:20:47,488 - INFO - Launched client for Cluster=0, Store=1037
+2025-03-24 17:20:47,596 - INFO - Launched client for Cluster=0, Store=1042
+2025-03-24 17:20:47,705 - INFO - Launched client for Cluster=0, Store=1044
+2025-03-24 17:20:47,813 - INFO - Launched client for Cluster=0, Store=1045
+2025-03-24 17:20:47,922 - INFO - Launched client for Cluster=0, Store=1047
+2025-03-24 17:20:48,031 - INFO - Launched client for Cluster=0, Store=1048
+2025-03-24 17:20:48,136 - INFO - Launched client for Cluster=0, Store=105
+2025-03-24 17:20:48,244 - INFO - Launched client for Cluster=0, Store=1050
+2025-03-24 17:20:48,350 - INFO - Launched client for Cluster=0, Store=1051
+2025-03-24 17:20:48,459 - INFO - Launched client for Cluster=0, Store=1052
+2025-03-24 17:20:48,568 - INFO - Launched client for Cluster=0, Store=1054
+2025-03-24 17:20:48,683 - INFO - Launched client for Cluster=0, Store=1055
+2025-03-24 17:20:48,794 - INFO - Launched client for Cluster=0, Store=1057
+2025-03-24 17:20:48,903 - INFO - Launched client for Cluster=0, Store=1058
+2025-03-24 17:20:49,010 - INFO - Launched client for Cluster=0, Store=1060
+2025-03-24 17:20:49,115 - INFO - Launched client for Cluster=0, Store=1061
+2025-03-24 17:20:49,223 - INFO - Launched client for Cluster=0, Store=1062
+2025-03-24 17:20:49,329 - INFO - Launched client for Cluster=0, Store=1063
+2025-03-24 17:20:49,439 - INFO - Launched client for Cluster=0, Store=1068
+2025-03-24 17:20:49,548 - INFO - Launched client for Cluster=0, Store=1069
+2025-03-24 17:20:49,657 - INFO - Launched client for Cluster=0, Store=107
+2025-03-24 17:20:49,768 - INFO - Launched client for Cluster=0, Store=1070
+2025-03-24 17:20:49,768 - INFO - Waiting for 50 clients to finish...
+2025-03-24 17:26:05,897 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,898 - ERROR - Error output: 2025-03-24 17:20:53 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:20:53 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1, cluster 0...
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - INFO - [Store 1, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+[92mINFO [0m:      
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - INFO - 
+[92mINFO [0m:      Received: get_parameters message 51fb1dd0-4487-4295-a3eb-dc7333426a82
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - INFO - Received: get_parameters message 51fb1dd0-4487-4295-a3eb-dc7333426a82
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - INFO - [Store 1] Sending model parameters to server.
+[92mINFO [0m:      Sent reply
+2025-03-24 17:20:54 - [Cluster 0 - CLIENT] - INFO - Sent reply
+[92mINFO [0m:      
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - INFO - 
+[92mINFO [0m:      Received: train message 3227f827-5b27-41cf-ae63-f222b3f1c6dc
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - INFO - Received: train message 3227f827-5b27-41cf-ae63-f222b3f1c6dc
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - INFO - [Store 1] Starting local training.
+2025-03-24 17:21:33 - [Cluster 0 - CLIENT] - INFO - [Store 1] Local training complete.
+[92mINFO [0m:      Sent reply
+2025-03-24 17:21:33 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-24 17:26:03 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:26:04 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8080 {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:26:03.935367+03:00"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,899 - ERROR - Error output: 2025-03-24 17:21:02 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:02 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 10, cluster 0...
+2025-03-24 17:21:03 - [Cluster 0 - CLIENT] - INFO - [Store 10, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:03 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+[92mINFO [0m:      
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - INFO - 
+[92mINFO [0m:      Received: train message 4e240ffc-a1ae-42a6-9aa2-e31bb61346e3
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - INFO - Received: train message 4e240ffc-a1ae-42a6-9aa2-e31bb61346e3
+2025-03-24 17:21:04 - [Cluster 0 - CLIENT] - INFO - [Store 10] Starting local training.
+2025-03-24 17:21:33 - [Cluster 0 - CLIENT] - INFO - [Store 10] Local training complete.
+[92mINFO [0m:      Sent reply
+2025-03-24 17:21:33 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-24 17:26:03 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:26:03 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8080 {created_time:"2025-03-24T17:26:03.359447+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,899 - ERROR - Error output: 2025-03-24 17:21:06 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:06 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1001, cluster 0...
+2025-03-24 17:21:07 - [Cluster 0 - CLIENT] - INFO - [Store 1001, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:07 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:07 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:38 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:38 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:38.0112+03:00"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,899 - ERROR - Error output: 2025-03-24 17:21:06 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:06 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1002, cluster 0...
+2025-03-24 17:21:08 - [Cluster 0 - CLIENT] - INFO - [Store 1002, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:08 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:08 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:38 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:38 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-24T17:25:38.719686+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,899 - ERROR - Error output: 2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1003, cluster 0...
+2025-03-24 17:21:16 - [Cluster 0 - CLIENT] - INFO - [Store 1003, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:16 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:17 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:17 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:17 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:17 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:47 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-24T17:25:47.104394+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,899 - ERROR - Error output: 2025-03-24 17:21:13 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:13 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1005, cluster 0...
+2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - INFO - [Store 1005, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:15 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:45 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:45 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:45.336977+03:00"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,899 - ERROR - Error output: 2025-03-24 17:21:16 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:16 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1006, cluster 0...
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - INFO - [Store 1006, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:48 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:48 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:48.417263+03:00"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,899 - ERROR - Error output: 2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1007, cluster 0...
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - INFO - [Store 1007, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:49 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:49 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-24T17:25:49.625099+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+
+2025-03-24 17:26:05,899 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:17 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:17 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1008, cluster 0...
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - INFO - [Store 1008, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:18 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:49 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:49 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-24T17:25:49.239721+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:20 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:20 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 101, cluster 0...
+2025-03-24 17:21:20 - [Cluster 0 - CLIENT] - INFO - [Store 101, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:20 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:51 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:51 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:51.126874+03:00"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:19 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1011, cluster 0...
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - INFO - [Store 1011, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:21 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:51 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:51 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:51.50646+03:00"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:26 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:26 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1013, cluster 0...
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - INFO - [Store 1013, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:57 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:58 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:57.853659+03:00"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:26 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:26 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1015, cluster 0...
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - INFO - [Store 1015, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:58 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:58 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-24T17:25:58.059457+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:22 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:22 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1016, cluster 0...
+2025-03-24 17:21:24 - [Cluster 0 - CLIENT] - INFO - [Store 1016, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:24 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:24 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:24 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:24 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 17:21:24 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:54 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:54.351828+03:00"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:25 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:25 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1017, cluster 0...
+2025-03-24 17:21:26 - [Cluster 0 - CLIENT] - INFO - [Store 1017, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:26 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:27 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:57 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:57 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:57.08906+03:00"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 102, cluster 0...
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - INFO - [Store 102, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:29 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:29 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:29 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:59 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:59 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"ping timeout", grpc_status:14, created_time:"2025-03-24T17:25:59.399519+03:00"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1022, cluster 0...
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - INFO - [Store 1022, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:25:58 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:25:58 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-24T17:25:58.417091+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+
+2025-03-24 17:26:05,900 - ERROR - Process failed with return code 1
+2025-03-24 17:26:05,900 - ERROR - Error output: 2025-03-24 17:21:29 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_172033/clients_cluster_0.log
+2025-03-24 17:21:29 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1023, cluster 0...
+2025-03-24 17:21:29 - [Cluster 0 - CLIENT] - INFO - [Store 1023, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:29 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:21:30 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 17:21:30 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:21:30 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 17:26:00 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 17:26:00 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "ping timeout"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-24T17:26:00.033995+03:00", grpc_status:14, grpc_message:"ping timeout"}"
+>
+

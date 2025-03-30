@@ -1,0 +1,877 @@
+2025-03-25 09:40:35,188 - INFO - Launched client for Cluster=0, Store=1
+2025-03-25 09:40:35,298 - INFO - Launched client for Cluster=0, Store=10
+2025-03-25 09:40:35,418 - INFO - Launched client for Cluster=0, Store=1001
+2025-03-25 09:40:35,526 - INFO - Launched client for Cluster=0, Store=1002
+2025-03-25 09:40:35,634 - INFO - Launched client for Cluster=0, Store=1003
+2025-03-25 09:40:35,741 - INFO - Launched client for Cluster=0, Store=1005
+2025-03-25 09:40:35,858 - INFO - Launched client for Cluster=0, Store=1006
+2025-03-25 09:40:35,967 - INFO - Launched client for Cluster=0, Store=1007
+2025-03-25 09:40:36,073 - INFO - Launched client for Cluster=0, Store=1008
+2025-03-25 09:40:36,187 - INFO - Launched client for Cluster=0, Store=101
+2025-03-25 09:40:36,303 - INFO - Launched client for Cluster=0, Store=1011
+2025-03-25 09:40:36,407 - INFO - Launched client for Cluster=0, Store=1013
+2025-03-25 09:40:36,515 - INFO - Launched client for Cluster=0, Store=1015
+2025-03-25 09:40:36,621 - INFO - Launched client for Cluster=0, Store=1016
+2025-03-25 09:40:36,734 - INFO - Launched client for Cluster=0, Store=1017
+2025-03-25 09:40:36,734 - INFO - Waiting for 15 clients to finish (concurrency limit).
+2025-03-25 10:08:03,804 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,808 - INFO - Client completed successfully.
+2025-03-25 10:08:03,918 - INFO - Launched client for Cluster=0, Store=102
+2025-03-25 10:08:04,023 - INFO - Launched client for Cluster=0, Store=1022
+2025-03-25 10:08:04,138 - INFO - Launched client for Cluster=0, Store=1023
+2025-03-25 10:08:04,248 - INFO - Launched client for Cluster=0, Store=1024
+2025-03-25 10:08:04,353 - INFO - Launched client for Cluster=0, Store=1025
+2025-03-25 10:08:04,461 - INFO - Launched client for Cluster=0, Store=1028
+2025-03-25 10:08:04,568 - INFO - Launched client for Cluster=0, Store=1029
+2025-03-25 10:08:04,677 - INFO - Launched client for Cluster=0, Store=103
+2025-03-25 10:08:04,783 - INFO - Launched client for Cluster=0, Store=1030
+2025-03-25 10:08:04,889 - INFO - Launched client for Cluster=0, Store=1031
+2025-03-25 10:08:04,997 - INFO - Launched client for Cluster=0, Store=1034
+2025-03-25 10:08:05,106 - INFO - Launched client for Cluster=0, Store=1035
+2025-03-25 10:08:05,215 - INFO - Launched client for Cluster=0, Store=1036
+2025-03-25 10:08:05,321 - INFO - Launched client for Cluster=0, Store=1037
+2025-03-25 10:08:05,429 - INFO - Launched client for Cluster=0, Store=1042
+2025-03-25 10:08:05,429 - INFO - Waiting for 15 clients to finish (concurrency limit).
+2025-03-25 10:08:11,450 - ERROR - Process failed with return code 1
+2025-03-25 10:08:11,450 - ERROR - Error output: 2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 102, cluster 0...
+2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:09.483938: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:09.483963: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:09.483969: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:09.483985: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:09.483998: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - INFO - [Store 102, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:09 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:10 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:09.851175+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:14,294 - ERROR - Process failed with return code 1
+2025-03-25 10:08:14,294 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1022, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.204172: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.204196: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.204202: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.204220: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.204232: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - [Store 1022, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:12.590152+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:14,526 - ERROR - Process failed with return code 1
+2025-03-25 10:08:14,526 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1023, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.377559: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.377578: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.377586: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.377601: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.377613: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - [Store 1023, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)", grpc_status:14, created_time:"2025-03-25T10:08:12.764467+03:00"}"
+>
+
+2025-03-25 10:08:33,455 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,455 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1024, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.509921: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.509938: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.509943: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.509960: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.509970: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1024, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)", grpc_status:14, created_time:"2025-03-25T10:08:13.096677+03:00"}"
+>
+
+2025-03-25 10:08:33,455 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,455 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1025, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.528139: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.528158: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.528163: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.528179: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.528189: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1025, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)", grpc_status:14, created_time:"2025-03-25T10:08:13.121535+03:00"}"
+>
+
+2025-03-25 10:08:33,455 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,455 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1028, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.475370: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.475390: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.475396: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.475411: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.475421: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1028, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:13.076502+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:33,455 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,455 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1029, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.698694: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.698730: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.698738: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.698762: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.698779: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1029, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)", grpc_status:14, created_time:"2025-03-25T10:08:13.297605+03:00"}"
+>
+
+2025-03-25 10:08:33,455 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,455 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 103, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.701500: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.701523: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.701531: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.701548: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.701560: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 103, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)", grpc_status:14, created_time:"2025-03-25T10:08:13.262705+03:00"}"
+>
+
+2025-03-25 10:08:33,455 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,455 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1030, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.882309: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.882335: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.882342: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.882362: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.882374: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1030, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:13.613311+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:33,455 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,458 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1031, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.800484: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.800517: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.800527: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.800554: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.800571: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1031, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:13.561519+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:33,738 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,738 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1034, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.761220: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.761255: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.761266: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.761293: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.761311: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1034, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:13.403239+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:33,739 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,739 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1035, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.908307: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.908355: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.908381: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.908510: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.908545: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1035, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:13.627867+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:33,739 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,739 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1036, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.930488: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.930530: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.930541: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.930571: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.930596: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1036, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:13.657294+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:33,739 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,739 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1037, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.940470: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.940497: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.940505: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.940524: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.940594: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1037, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)", grpc_status:14, created_time:"2025-03-25T10:08:13.629103+03:00"}"
+>
+
+2025-03-25 10:08:33,739 - ERROR - Process failed with return code 1
+2025-03-25 10:08:33,739 - ERROR - Error output: 2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1042, cluster 0...
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:12 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:12.820392: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:12.820418: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:12.820428: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:12.820446: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:12.820459: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - INFO - [Store 1042, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-25 10:08:13 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:13.565804+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+
+2025-03-25 10:08:33,846 - INFO - Launched client for Cluster=0, Store=1044
+2025-03-25 10:08:33,951 - INFO - Launched client for Cluster=0, Store=1045
+2025-03-25 10:08:34,060 - INFO - Launched client for Cluster=0, Store=1047
+2025-03-25 10:08:34,165 - INFO - Launched client for Cluster=0, Store=1048
+2025-03-25 10:08:34,278 - INFO - Launched client for Cluster=0, Store=105
+2025-03-25 10:08:34,387 - INFO - Launched client for Cluster=0, Store=1050
+2025-03-25 10:08:34,496 - INFO - Launched client for Cluster=0, Store=1051
+2025-03-25 10:08:34,607 - INFO - Launched client for Cluster=0, Store=1052
+2025-03-25 10:08:34,716 - INFO - Launched client for Cluster=0, Store=1054
+2025-03-25 10:08:34,824 - INFO - Launched client for Cluster=0, Store=1055
+2025-03-25 10:08:34,929 - INFO - Launched client for Cluster=0, Store=1057
+2025-03-25 10:08:35,034 - INFO - Launched client for Cluster=0, Store=1058
+2025-03-25 10:08:35,143 - INFO - Launched client for Cluster=0, Store=1060
+2025-03-25 10:08:35,249 - INFO - Launched client for Cluster=0, Store=1061
+2025-03-25 10:08:35,356 - INFO - Launched client for Cluster=0, Store=1062
+2025-03-25 10:08:35,357 - INFO - Waiting for 15 clients to finish (concurrency limit).
+2025-03-25 10:08:43,999 - ERROR - Process failed with return code 1
+2025-03-25 10:08:44,000 - ERROR - Error output: 2025-03-25 10:08:41 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_094024/clients_cluster_0.log
+2025-03-25 10:08:41 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1044, cluster 0...
+2025-03-25 10:08:41 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 10:08:41 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 10:08:41.616140: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-03-25 10:08:41.616171: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-03-25 10:08:41.616178: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-03-25 10:08:41.616196: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-03-25 10:08:41.616209: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+2025-03-25 10:08:42 - [Cluster 0 - CLIENT] - INFO - [Store 1044, Cluster 0] Connecting to 127.0.0.1:8080 ...
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-25 10:08:42 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 10:08:42 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 10:08:42 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 10:08:42 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_client.py", line 36, in <module>
+    fl.client.start_client(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 140, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_channel.py", line 952, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-03-25T10:08:42.162183+03:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:8080: Failed to connect to remote host: connect: Connection refused (61)"}"
+>
+

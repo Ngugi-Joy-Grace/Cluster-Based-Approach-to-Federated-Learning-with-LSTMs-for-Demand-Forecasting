@@ -1,0 +1,16 @@
+2025-03-25 09:13:59,321 - INFO - Launched client for Cluster=0, Store=1
+2025-03-25 09:13:59,437 - INFO - Launched client for Cluster=0, Store=10
+2025-03-25 09:13:59,545 - INFO - Launched client for Cluster=0, Store=1001
+2025-03-25 09:13:59,653 - INFO - Launched client for Cluster=0, Store=1002
+2025-03-25 09:13:59,762 - INFO - Launched client for Cluster=0, Store=1003
+2025-03-25 09:13:59,871 - INFO - Launched client for Cluster=0, Store=1005
+2025-03-25 09:13:59,980 - INFO - Launched client for Cluster=0, Store=1006
+2025-03-25 09:14:00,098 - INFO - Launched client for Cluster=0, Store=1007
+2025-03-25 09:14:00,207 - INFO - Launched client for Cluster=0, Store=1008
+2025-03-25 09:14:00,312 - INFO - Launched client for Cluster=0, Store=101
+2025-03-25 09:14:00,421 - INFO - Launched client for Cluster=0, Store=1011
+2025-03-25 09:14:00,530 - INFO - Launched client for Cluster=0, Store=1013
+2025-03-25 09:14:00,639 - INFO - Launched client for Cluster=0, Store=1015
+2025-03-25 09:14:00,759 - INFO - Launched client for Cluster=0, Store=1016
+2025-03-25 09:14:00,863 - INFO - Launched client for Cluster=0, Store=1017
+2025-03-25 09:14:00,864 - INFO - Waiting for 15 clients to finish (concurrency limit).

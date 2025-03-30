@@ -1,61 +1,51 @@
+import math
 import subprocess
 import logging
 import threading
 import time
+import random
 from typing import List
 from pathlib import Path
 from configs.logging_config import get_run_timestamp_dir
 
+# Constants
+MAX_CONCURRENT_CLIENTS = 10         # Launch 10 at a time
+FRACTION_SAMPLE = 0.05             # 5% of each cluster
 
 def stream_process_output(proc: subprocess.Popen, name: str):
+    """Continuously read lines from proc.stdout and log them in real time (non-blocking)."""
     if proc.stdout is None:
         return
     for line in proc.stdout:
         logging.info(f"[{name}] {line.rstrip()}")
 
-
 def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subprocess.Popen:
-    """
-    Launch a single client process for the given cluster_id and store_id.
-    """
+    """Launch a single client process (multi-round)."""
+    cmd = [
+        "python", "run_client.py",
+        str(cluster_id),
+        str(store_id),
+        log_file_path
+    ]
     try:
-        cmd = [
-            "python", "run_client.py",
-            str(cluster_id),
-            str(store_id),
-            log_file_path
-        ]
         proc = subprocess.Popen(
             cmd,
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
             universal_newlines=True
         )
-        logging.info(f"Launched client for Cluster={cluster_id}, Store={store_id}")
-        # Stream output in a background thread, non-blocking
+        logging.info(f"Launched client for cluster={cluster_id}, store={store_id}")
+
+        # Stream output in the background
         t = threading.Thread(target=stream_process_output, args=(proc, f"Client-{cluster_id}-{store_id}"), daemon=True)
         t.start()
-
         return proc
     except subprocess.SubprocessError as e:
-        logging.error(f"Failed to launch client for Cluster={cluster_id}, Store={store_id}: {e}")
+        logging.error(f"Failed to launch client for cluster={cluster_id}, store={store_id}: {e}")
         return None
 
-
-
-def clear_existing_handlers():
-    root_logger = logging.getLogger()
-    while root_logger.handlers:
-        root_logger.removeHandler(root_logger.handlers[0])
-
-
 def main():
-    # Get the run directory for this execution
     run_dir = get_run_timestamp_dir()
-
-    clear_existing_handlers()
-
-    # Setup logging for the run_all_client script itself
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s - %(levelname)s - %(message)s",
@@ -67,14 +57,13 @@ def main():
 
     FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
     if not FEDERATED_DATA_DIR.exists():
-        logging.error(f"Federated data directory not found at {FEDERATED_DATA_DIR}")
+        logging.error(f"Federated data directory not found: {FEDERATED_DATA_DIR}")
         return
 
-    MAX_CONCURRENT_CLIENTS = 15
     active_processes: List[subprocess.Popen] = []
     total_launched = 0
 
-    # Iterate over cluster folders
+    # Iterate over cluster_* folders
     for cluster_folder in sorted(FEDERATED_DATA_DIR.glob("cluster_*")):
         if not cluster_folder.is_dir():
             continue
@@ -85,46 +74,72 @@ def main():
             logging.warning(f"Skipping folder {cluster_folder}, cannot parse cluster ID.")
             continue
 
-        # Create log filename for this cluster's clients
+        logging.info(f"=== Processing Cluster {cluster_id} ===")
+
         cluster_log_filename = f"clients_cluster_{cluster_id}.log"
-        # The actual path will be determined by the logging config
+        store_files = sorted(cluster_folder.glob("store_*.pkl"))
 
-        # For each store in this cluster
-        for data_file in sorted(cluster_folder.glob("store_*.pkl")):
-            store_id = int(data_file.stem.split("_")[1])
+        num_total = len(store_files)
+        if num_total == 0:
+            logging.info(f"No store files found for cluster {cluster_id}, skipping.")
+            continue
 
-            # Launch a client for (cluster_id, store_id)
+        # 1) Calculate sample_count at 5%
+        sample_count = max(1, int(num_total * FRACTION_SAMPLE))
+        logging.info(f"Cluster {cluster_id} has {num_total} stores in total.")
+        logging.info(f"Sampling 5% => {sample_count} stores to be launched for cluster {cluster_id}.")
+
+        # 2) Actually pick the subset
+        if sample_count < num_total:
+            selected_files = random.sample(store_files, sample_count)
+        else:
+            selected_files = store_files
+
+        # 3) Calculate how many 'batches' for concurrency=10 (just for logging)
+        batches = math.ceil(sample_count / MAX_CONCURRENT_CLIENTS)
+        logging.info(
+            f"Cluster {cluster_id} => concurrency={MAX_CONCURRENT_CLIENTS}, "
+            f"sample_count={sample_count}, => ~{batches} batch(es)."
+        )
+
+        launched_count_for_cluster = 0
+
+        # 4) Now LAUNCH the sampled files in sets of 10
+        for i, data_file in enumerate(selected_files, start=1):
+            store_id = int(data_file.stem.replace("store_", ""))
+
             proc = launch_client(cluster_id, store_id, cluster_log_filename)
             if proc:
                 active_processes.append(proc)
                 total_launched += 1
+                launched_count_for_cluster += 1
 
-            # Throttle concurrency
-            if len(active_processes) >= MAX_CONCURRENT_CLIENTS:
-                logging.info(f"Waiting for {len(active_processes)} clients to finish (concurrency limit).")
-                # Wait for them to exit
-                # But do a short wait or poll until they finish, rather than blocking for indefinite time.
-                while any(p.poll() is None for p in active_processes):
-                    still_running = sum(p.poll() is None for p in active_processes)
-                    logging.info(f"{still_running} processes still running...")
-                    time.sleep(2)
-                    # Remove completed
-                    active_processes = [p for p in active_processes if p.poll() is None]
-
-        time.sleep(0.1) # small delay between launches
-
-        #  After all stores in all clusters are launched, wait for the last batch to finish
-        if active_processes:
-            logging.info(f"Waiting for the last {len(active_processes)} clients to finish...")
-            while any(p.poll() is None for p in active_processes):
-                still_running = sum(p.poll() is None for p in active_processes)
-                logging.info(f"{still_running} processes still running in final batch...")
+            # Enforce concurrency limit
+            while len(active_processes) >= MAX_CONCURRENT_CLIENTS:
+                logging.info(f"At concurrency limit ({MAX_CONCURRENT_CLIENTS}). Waiting for some to free up.")
                 time.sleep(2)
-                # Remove completed
                 active_processes = [p for p in active_processes if p.poll() is None]
 
-    logging.info(f"All done! Total clients launched: {total_launched}")
+            # Optional small delay
+            time.sleep(0.1)
 
+            if (i % MAX_CONCURRENT_CLIENTS) == 0 or i == sample_count:
+                logging.info(f"[Cluster {cluster_id}] Launched {i}/{sample_count} stores so far...")
+
+        logging.info(f"[Cluster {cluster_id}] Done launching all {launched_count_for_cluster} sampled stores.")
+
+    # After all clusters
+    logging.info(f"All clusters done. Total clients launched across clusters: {total_launched}")
+    logging.info("Waiting for clients to remain alive until server finishes FL rounds...")
+
+    # Final wait until all client processes exit (once the server is done)
+    while any(p.poll() is None for p in active_processes):
+        still_running = sum(p.poll() is None for p in active_processes)
+        logging.info(f"{still_running} clients still running...")
+        time.sleep(5)
+        active_processes = [p for p in active_processes if p.poll() is None]
+
+    logging.info("All done! All sampled clients have exited (server ended).")
 
 if __name__ == "__main__":
     main()

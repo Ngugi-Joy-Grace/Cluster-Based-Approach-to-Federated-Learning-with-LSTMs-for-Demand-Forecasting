@@ -1,0 +1,7 @@
+2025-03-24 18:30:49,836 - INFO - Starting federation training run
+2025-03-24 18:30:49,838 - INFO - Started server for cluster 0
+2025-03-24 18:30:51,843 - INFO - Started server for cluster 1
+2025-03-24 18:30:53,850 - INFO - Started server for cluster 2
+2025-03-24 18:31:00,865 - INFO - Started client coordinator
+2025-03-24 20:17:56,575 - INFO - Received interrupt, shutting down...
+2025-03-24 20:17:56,577 - INFO - Federation run complete

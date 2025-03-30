@@ -1,0 +1,11 @@
+2025-03-24 18:31:00,980 - INFO - Launched client for Cluster=0, Store=1
+2025-03-24 18:31:01,086 - INFO - Launched client for Cluster=0, Store=10
+2025-03-24 18:31:01,193 - INFO - Launched client for Cluster=0, Store=1001
+2025-03-24 18:31:01,299 - INFO - Launched client for Cluster=0, Store=1002
+2025-03-24 18:31:01,406 - INFO - Launched client for Cluster=0, Store=1003
+2025-03-24 18:31:01,513 - INFO - Launched client for Cluster=0, Store=1005
+2025-03-24 18:31:01,620 - INFO - Launched client for Cluster=0, Store=1006
+2025-03-24 18:31:01,722 - INFO - Launched client for Cluster=0, Store=1007
+2025-03-24 18:31:01,829 - INFO - Launched client for Cluster=0, Store=1008
+2025-03-24 18:31:01,936 - INFO - Launched client for Cluster=0, Store=101
+2025-03-24 18:31:01,937 - INFO - Waiting for 10 clients to finish...

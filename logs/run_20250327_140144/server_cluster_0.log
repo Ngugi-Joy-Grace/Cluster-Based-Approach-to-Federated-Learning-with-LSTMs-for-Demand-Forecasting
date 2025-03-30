@@ -1,0 +1,6 @@
+2025-03-27 14:01:57 - [Server 0] - INFO - [Server 0] Logging initialized -> ../logs/run_20250327_140144/server_cluster_0.log
+2025-03-27 14:01:57 - [Server 0] - INFO - Starting Flower server, config: num_rounds=10, no round_timeout
+2025-03-27 14:01:57 - [Server 0] - INFO - Flower ECE: gRPC server running (10 rounds), SSL is disabled
+2025-03-27 14:01:57 - [Server 0] - INFO - [INIT]
+2025-03-27 14:01:57 - [Server 0] - INFO - Requesting initial parameters from one random client
+2025-03-27 14:08:59 - [Server 0] - INFO - Flower server terminated gracefully.

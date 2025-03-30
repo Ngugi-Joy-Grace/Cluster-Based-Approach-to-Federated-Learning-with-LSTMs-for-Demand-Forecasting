@@ -1,0 +1,84 @@
+2025-03-25 09:29:49 - [Server 0] - INFO - [Server 0] Logging initialized -> ../logs/run_20250325_092949/server_cluster_0.log
+2025-03-25 09:29:49 - [Server 0] - INFO - Starting Flower server, config: num_rounds=10, no round_timeout
+2025-03-25 09:29:49 - [Server 0] - INFO - Flower ECE: gRPC server running (10 rounds), SSL is disabled
+2025-03-25 09:29:49 - [Server 0] - INFO - [INIT]
+2025-03-25 09:29:49 - [Server 0] - INFO - Requesting initial parameters from one random client
+2025-03-25 09:30:00 - [Server 0] - INFO - Received initial parameters from one random client
+2025-03-25 09:30:00 - [Server 0] - INFO - Starting evaluation of initial global parameters
+2025-03-25 09:30:00 - [Server 0] - INFO - Evaluation returned no results (`None`)
+2025-03-25 09:30:00 - [Server 0] - INFO - 
+2025-03-25 09:30:00 - [Server 0] - INFO - [ROUND 1]
+2025-03-25 09:30:00 - [Server 0] - INFO - configure_fit: strategy sampled 10 clients (out of 10)
+2025-03-25 09:32:30 - [Server 0] - INFO - aggregate_fit: received 10 results and 0 failures
+2025-03-25 09:32:30 - [Server 0] - INFO - configure_evaluate: strategy sampled 10 clients (out of 15)
+2025-03-25 09:32:31 - [Server 0] - INFO - aggregate_evaluate: received 10 results and 0 failures
+2025-03-25 09:32:31 - [Server 0] - INFO - 
+2025-03-25 09:32:31 - [Server 0] - INFO - [ROUND 2]
+2025-03-25 09:32:31 - [Server 0] - INFO - configure_fit: strategy sampled 10 clients (out of 15)
+2025-03-25 09:33:15 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-03-25 09:33:15 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-03-25 09:33:15 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-03-25 09:33:15 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-03-25 09:33:15 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-03-25 09:33:16 - [Server 0] - INFO - aggregate_fit: received 0 results and 10 failures
+2025-03-25 09:33:29 - [Server 0] - INFO - Flower server terminated gracefully.

@@ -1,0 +1,26 @@
+2025-03-24 17:51:56 - [Server 0] - INFO - [Server 0] Logging initialized -> ../logs/run_20250324_175151/server_cluster_0.log
+2025-03-24 17:51:56 - [Server 0] - WARNING - DEPRECATED FEATURE: flwr.server.start_server() is deprecated.
+	Instead, use the `flower-superlink` CLI command to start a SuperLink as shown below:
+
+		$ flower-superlink --insecure
+
+	To view usage and all available options, run:
+
+		$ flower-superlink --help
+
+	Using `start_server()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 17:51:56 - [Server 0] - INFO - Starting Flower server, config: num_rounds=10, no round_timeout
+2025-03-24 17:51:56 - [Server 0] - INFO - Flower ECE: gRPC server running (10 rounds), SSL is disabled
+2025-03-24 17:51:56 - [Server 0] - INFO - [INIT]
+2025-03-24 17:51:56 - [Server 0] - INFO - Requesting initial parameters from one random client
+2025-03-24 17:52:07 - [Server 0] - INFO - Received initial parameters from one random client
+2025-03-24 17:52:07 - [Server 0] - INFO - Starting evaluation of initial global parameters
+2025-03-24 17:52:07 - [Server 0] - INFO - Evaluation returned no results (`None`)
+2025-03-24 17:52:07 - [Server 0] - INFO - 
+2025-03-24 17:52:07 - [Server 0] - INFO - [ROUND 1]
+2025-03-24 17:52:07 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 17:52:09 - [Server 0] - INFO - aggregate_fit: received 2 results and 0 failures

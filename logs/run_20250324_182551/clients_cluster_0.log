@@ -1,0 +1,222 @@
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1, cluster 0...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - [Store 1, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Received: get_parameters message 071e78ab-024d-4725-a215-3ba76a7f8ab4
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - [Store 1] Sending model parameters to server.
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 10, cluster 0...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - [Store 10, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1001, cluster 0...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - [Store 1001, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1002, cluster 0...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - INFO - [Store 1002, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:07 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1003, cluster 0...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - [Store 1003, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1005, cluster 0...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1006, cluster 0...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - [Store 1005, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - [Store 1006, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1008, cluster 0...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1007, cluster 0...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250324_182551/clients_cluster_0.log
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 101, cluster 0...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - [Store 1007, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - [Store 1008, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - INFO - [Store 101, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - WARNING - DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-24 18:26:08 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-24 18:26:27 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:27 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.TRANSIENT_FAILURE
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:26:28 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:27:31 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-24 18:27:31 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed

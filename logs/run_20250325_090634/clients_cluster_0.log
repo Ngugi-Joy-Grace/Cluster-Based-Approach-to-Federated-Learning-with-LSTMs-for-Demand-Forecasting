@@ -1,0 +1,198 @@
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1, cluster 0...
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - [Store 1, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1001, cluster 0...
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 10, cluster 0...
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Received: get_parameters message 92e9e2e3-b64f-49b1-92b7-53bf456727bb
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - [Store 1] Sending model parameters to server.
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1006, cluster 0...
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1003, cluster 0...
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:53 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1002, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 101, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1007, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1011, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1008, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1013, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1015, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1005, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - [Store 1001, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - [Store 1003, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - [Store 10, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - [Store 1006, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1016, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Initialized client logging for cluster 0 -> ../logs/run_20250325_090634/clients_cluster_0.log
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - Loading pickle data for store 1017, cluster 0...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_train shape: (723, 7, 27), y_train shape: (723,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - x_val shape: (176, 7, 27), y_val shape: (176,)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - INFO - [Store 1002, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:54 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 101, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1007, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1011, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1015, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message d998a51a-3e02-40b0-ba0a-6c613c5792a2
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message 116706f4-b246-4ffb-ba5a-e274c12e3f92
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message df6cb7bd-9edb-479b-96b2-efd786e86ab3
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message 4cb0494f-d530-405f-a2c3-1b1f1ca1ecae
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message 6ea2be52-03e3-47ba-a09e-3c928ed2918a
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message 5f1622f3-941f-48aa-b0d2-2359d468da14
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message 85b08d06-6054-46c2-8316-156c7484c73a
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message f4995df5-da04-4145-9dd5-c0ee7089cb1f
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message 4a28eec1-ac93-45de-81de-d5b338fad792
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1013, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1003] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - 
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - Received: train message 6d5334c9-4556-44b1-9af6-9ea3a46e885a
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1002] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 101] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1008, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1007] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1006] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 10] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1016, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1001] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1011] Starting local training.
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1005, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1017, Cluster 0] Connecting to 127.0.0.1:8080 ...
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-25 09:06:55 - [Cluster 0 - CLIENT] - INFO - [Store 1015] Starting local training.
+2025-03-25 09:09:23 - [Cluster 0 - CLIENT] - INFO - [Store 1002] Local training complete.
+2025-03-25 09:09:23 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - [Store 101] Local training complete.
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - [Store 1001] Local training complete.
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - [Store 1003] Local training complete.
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - [Store 1007] Local training complete.
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - [Store 10] Local training complete.
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:25 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - [Store 1006] Local training complete.
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - [Store 1011] Local training complete.
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - [Store 1] Local training complete.
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - [Store 1015] Local training complete.
+2025-03-25 09:09:26 - [Cluster 0 - CLIENT] - INFO - Sent reply
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-25 09:12:47 - [Cluster 0 - CLIENT] - DEBUG - gRPC channel closed

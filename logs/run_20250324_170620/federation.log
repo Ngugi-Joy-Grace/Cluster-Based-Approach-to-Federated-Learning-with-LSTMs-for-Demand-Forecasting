@@ -1,0 +1,159 @@
+2025-03-24 17:06:20,074 - INFO - Starting federation training run
+2025-03-24 17:06:20,075 - INFO - Started server for cluster 0
+2025-03-24 17:06:22,083 - INFO - Started server for cluster 1
+2025-03-24 17:06:24,089 - INFO - Started server for cluster 2
+2025-03-24 17:06:31,099 - INFO - Started client coordinator
+2025-03-24 17:06:31,099 - ERROR - Server-0 failed with return code 1
+2025-03-24 17:06:31,099 - ERROR - Server-0 error output: 2025-03-24 17:06:24 - [Server 0] - INFO - [Server 0] Logging initialized -> ../logs/run_20250324_170620/server_cluster_0.log
+[93mWARNING [0m:   DEPRECATED FEATURE: Passing either `server`, `config`, `strategy` or `client_manager` directly to the ServerApp constructor is deprecated.
+
+            Check the following `FEATURE UPDATE` warning message for the preferred
+            new mechanism to use this feature in Flower.
+        
+2025-03-24 17:06:24 - [Server 0] - WARNING - DEPRECATED FEATURE: Passing either `server`, `config`, `strategy` or `client_manager` directly to the ServerApp constructor is deprecated.
+
+            Check the following `FEATURE UPDATE` warning message for the preferred
+            new mechanism to use this feature in Flower.
+        
+[93mWARNING [0m:   FEATURE UPDATE: Pass `ServerApp` arguments wrapped in a `flwr.server.ServerAppComponents` object that gets returned by a function passed as the `server_fn` argument to the `ServerApp` constructor. For example: 
+        ------------------------------------------------------------
+        
+
+        def server_fn(context: Context):
+            server_config = ServerConfig(num_rounds=3)
+            strategy = FedAvg()
+            return ServerAppComponents(
+                strategy=strategy,
+                server_config=server_config,
+        )
+
+        app = ServerApp(server_fn=server_fn)
+
+        ------------------------------------------------------------
+        
+2025-03-24 17:06:24 - [Server 0] - WARNING - FEATURE UPDATE: Pass `ServerApp` arguments wrapped in a `flwr.server.ServerAppComponents` object that gets returned by a function passed as the `server_fn` argument to the `ServerApp` constructor. For example: 
+        ------------------------------------------------------------
+        
+
+        def server_fn(context: Context):
+            server_config = ServerConfig(num_rounds=3)
+            strategy = FedAvg()
+            return ServerAppComponents(
+                strategy=strategy,
+                server_config=server_config,
+        )
+
+        app = ServerApp(server_fn=server_fn)
+
+        ------------------------------------------------------------
+        
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/server_cluster_0.py", line 53, in <module>
+    fl.server.start_server_app(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'flwr.server' has no attribute 'start_server_app'. Did you mean: 'start_server'?
+
+2025-03-24 17:06:31,100 - ERROR - Server-1 failed with return code 1
+2025-03-24 17:06:31,100 - ERROR - Server-1 error output: 2025-03-24 17:06:25 - [Server 1] - INFO - [Server 1] Logging initialized -> ../logs/run_20250324_170620/server_cluster_1.log
+[93mWARNING [0m:   DEPRECATED FEATURE: Passing either `server`, `config`, `strategy` or `client_manager` directly to the ServerApp constructor is deprecated.
+
+            Check the following `FEATURE UPDATE` warning message for the preferred
+            new mechanism to use this feature in Flower.
+        
+2025-03-24 17:06:25 - [Server 1] - WARNING - DEPRECATED FEATURE: Passing either `server`, `config`, `strategy` or `client_manager` directly to the ServerApp constructor is deprecated.
+
+            Check the following `FEATURE UPDATE` warning message for the preferred
+            new mechanism to use this feature in Flower.
+        
+[93mWARNING [0m:   FEATURE UPDATE: Pass `ServerApp` arguments wrapped in a `flwr.server.ServerAppComponents` object that gets returned by a function passed as the `server_fn` argument to the `ServerApp` constructor. For example: 
+        ------------------------------------------------------------
+        
+
+        def server_fn(context: Context):
+            server_config = ServerConfig(num_rounds=3)
+            strategy = FedAvg()
+            return ServerAppComponents(
+                strategy=strategy,
+                server_config=server_config,
+        )
+
+        app = ServerApp(server_fn=server_fn)
+
+        ------------------------------------------------------------
+        
+2025-03-24 17:06:25 - [Server 1] - WARNING - FEATURE UPDATE: Pass `ServerApp` arguments wrapped in a `flwr.server.ServerAppComponents` object that gets returned by a function passed as the `server_fn` argument to the `ServerApp` constructor. For example: 
+        ------------------------------------------------------------
+        
+
+        def server_fn(context: Context):
+            server_config = ServerConfig(num_rounds=3)
+            strategy = FedAvg()
+            return ServerAppComponents(
+                strategy=strategy,
+                server_config=server_config,
+        )
+
+        app = ServerApp(server_fn=server_fn)
+
+        ------------------------------------------------------------
+        
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/server_cluster_1.py", line 53, in <module>
+    fl.server.start_server_app(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'flwr.server' has no attribute 'start_server_app'. Did you mean: 'start_server'?
+
+2025-03-24 17:06:31,100 - ERROR - Server-2 failed with return code 1
+2025-03-24 17:06:31,100 - ERROR - Server-2 error output: 2025-03-24 17:06:27 - [Server 2] - INFO - [Server 2] Logging initialized -> ../logs/run_20250324_170620/server_cluster_2.log
+[93mWARNING [0m:   DEPRECATED FEATURE: Passing either `server`, `config`, `strategy` or `client_manager` directly to the ServerApp constructor is deprecated.
+
+            Check the following `FEATURE UPDATE` warning message for the preferred
+            new mechanism to use this feature in Flower.
+        
+2025-03-24 17:06:27 - [Server 2] - WARNING - DEPRECATED FEATURE: Passing either `server`, `config`, `strategy` or `client_manager` directly to the ServerApp constructor is deprecated.
+
+            Check the following `FEATURE UPDATE` warning message for the preferred
+            new mechanism to use this feature in Flower.
+        
+[93mWARNING [0m:   FEATURE UPDATE: Pass `ServerApp` arguments wrapped in a `flwr.server.ServerAppComponents` object that gets returned by a function passed as the `server_fn` argument to the `ServerApp` constructor. For example: 
+        ------------------------------------------------------------
+        
+
+        def server_fn(context: Context):
+            server_config = ServerConfig(num_rounds=3)
+            strategy = FedAvg()
+            return ServerAppComponents(
+                strategy=strategy,
+                server_config=server_config,
+        )
+
+        app = ServerApp(server_fn=server_fn)
+
+        ------------------------------------------------------------
+        
+2025-03-24 17:06:27 - [Server 2] - WARNING - FEATURE UPDATE: Pass `ServerApp` arguments wrapped in a `flwr.server.ServerAppComponents` object that gets returned by a function passed as the `server_fn` argument to the `ServerApp` constructor. For example: 
+        ------------------------------------------------------------
+        
+
+        def server_fn(context: Context):
+            server_config = ServerConfig(num_rounds=3)
+            strategy = FedAvg()
+            return ServerAppComponents(
+                strategy=strategy,
+                server_config=server_config,
+        )
+
+        app = ServerApp(server_fn=server_fn)
+
+        ------------------------------------------------------------
+        
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/server_cluster_2.py", line 52, in <module>
+    fl.server.start_server_app(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'flwr.server' has no attribute 'start_server_app'. Did you mean: 'start_server'?
+
+2025-03-24 17:06:31,195 - ERROR - Clients failed with return code 2
+2025-03-24 17:06:31,195 - ERROR - Clients error output: /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/scripts/run_all_client.py': [Errno 2] No such file or directory
+
+2025-03-24 17:06:31,195 - INFO - Federation run complete

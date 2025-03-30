@@ -37,11 +37,11 @@ if __name__ == "__main__":
     
     # Define federated averaging strategy
     strategy = fl.server.strategy.FedAvg(
-        min_available_clients=10,
-        fraction_fit=0.041,
-        fraction_evaluate=0.041,
-        min_fit_clients=10,
-        min_evaluate_clients=10,
+        min_available_clients=12,
+        fraction_fit=1,
+        fraction_evaluate=1,
+        min_fit_clients=12,
+        min_evaluate_clients=12,
         fit_metrics_aggregation_fn=aggregate_metrics,
         evaluate_metrics_aggregation_fn=aggregate_metrics
     )

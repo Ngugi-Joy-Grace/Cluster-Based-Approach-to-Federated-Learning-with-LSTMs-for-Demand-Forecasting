@@ -36,11 +36,11 @@ if __name__ == "__main__":
     setup_server_logging(cluster_id)
     
     strategy = fl.server.strategy.FedAvg(
-        min_available_clients=10,
-        fraction_fit=0.05,
-        fraction_evaluate=0.05,
-        min_fit_clients=10,
-        min_evaluate_clients=10,
+        min_available_clients=9,
+        fraction_fit=1,
+        fraction_evaluate=1,
+        min_fit_clients=9,
+        min_evaluate_clients=9,
         fit_metrics_aggregation_fn=aggregate_metrics,
         evaluate_metrics_aggregation_fn=aggregate_metrics
     )

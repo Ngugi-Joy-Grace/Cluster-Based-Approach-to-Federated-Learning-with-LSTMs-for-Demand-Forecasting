@@ -1,0 +1,86 @@
+2025-03-24 15:19:04 - [Server 0] - INFO - [Server 0] Logging initialized -> ../logs/server_cluster_0_20250324_151904.log
+2025-03-24 15:19:04 - [Server 0] - WARNING - DEPRECATED FEATURE: flwr.server.start_server() is deprecated.
+	Instead, use the `flower-superlink` CLI command to start a SuperLink as shown below:
+
+		$ flower-superlink --insecure
+
+	To view usage and all available options, run:
+
+		$ flower-superlink --help
+
+	Using `start_server()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+2025-03-24 15:19:04 - [Server 0] - INFO - Starting Flower server, config: num_rounds=10, no round_timeout
+2025-03-24 15:19:04 - [Server 0] - INFO - Flower ECE: gRPC server running (10 rounds), SSL is disabled
+2025-03-24 15:19:04 - [Server 0] - INFO - [INIT]
+2025-03-24 15:19:04 - [Server 0] - INFO - Requesting initial parameters from one random client
+2025-03-24 15:32:52 - [Server 0] - INFO - Received initial parameters from one random client
+2025-03-24 15:32:52 - [Server 0] - INFO - Starting evaluation of initial global parameters
+2025-03-24 15:32:52 - [Server 0] - INFO - Evaluation returned no results (`None`)
+2025-03-24 15:32:52 - [Server 0] - INFO - 
+2025-03-24 15:32:52 - [Server 0] - INFO - [ROUND 1]
+2025-03-24 15:32:56 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:32:57 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:33:02 - [Server 0] - INFO - configure_evaluate: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:03 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 2 failures
+2025-03-24 15:33:03 - [Server 0] - INFO - 
+2025-03-24 15:33:03 - [Server 0] - INFO - [ROUND 2]
+2025-03-24 15:33:08 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:09 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:33:18 - [Server 0] - INFO - configure_evaluate: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:20 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 2 failures
+2025-03-24 15:33:20 - [Server 0] - INFO - 
+2025-03-24 15:33:20 - [Server 0] - INFO - [ROUND 3]
+2025-03-24 15:33:29 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:31 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:33:36 - [Server 0] - INFO - configure_evaluate: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:38 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 2 failures
+2025-03-24 15:33:38 - [Server 0] - INFO - 
+2025-03-24 15:33:38 - [Server 0] - INFO - [ROUND 4]
+2025-03-24 15:33:39 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:42 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:33:43 - [Server 0] - INFO - configure_evaluate: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:45 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 2 failures
+2025-03-24 15:33:45 - [Server 0] - INFO - 
+2025-03-24 15:33:45 - [Server 0] - INFO - [ROUND 5]
+2025-03-24 15:33:48 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:33:50 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:33:59 - [Server 0] - INFO - configure_evaluate: strategy sampled 2 clients (out of 2)
+2025-03-24 15:34:04 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 2 failures
+2025-03-24 15:34:04 - [Server 0] - INFO - 
+2025-03-24 15:34:04 - [Server 0] - INFO - [ROUND 6]
+2025-03-24 15:34:06 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:34:08 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:34:08 - [Server 0] - INFO - configure_evaluate: strategy sampled 7 clients (out of 7)
+2025-03-24 15:34:10 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 7 failures
+2025-03-24 15:34:10 - [Server 0] - INFO - 
+2025-03-24 15:34:10 - [Server 0] - INFO - [ROUND 7]
+2025-03-24 15:34:15 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:34:17 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:34:17 - [Server 0] - INFO - configure_evaluate: strategy sampled 5 clients (out of 5)
+2025-03-24 15:34:19 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 5 failures
+2025-03-24 15:34:19 - [Server 0] - INFO - 
+2025-03-24 15:34:19 - [Server 0] - INFO - [ROUND 8]
+2025-03-24 15:34:22 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:34:24 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:34:24 - [Server 0] - INFO - configure_evaluate: strategy sampled 3 clients (out of 3)
+2025-03-24 15:34:28 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 3 failures
+2025-03-24 15:34:28 - [Server 0] - INFO - 
+2025-03-24 15:34:28 - [Server 0] - INFO - [ROUND 9]
+2025-03-24 15:34:28 - [Server 0] - INFO - configure_fit: strategy sampled 3 clients (out of 3)
+2025-03-24 15:34:31 - [Server 0] - INFO - aggregate_fit: received 0 results and 3 failures
+2025-03-24 15:34:31 - [Server 0] - INFO - configure_evaluate: strategy sampled 4 clients (out of 4)
+2025-03-24 15:34:33 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 4 failures
+2025-03-24 15:34:34 - [Server 0] - INFO - 
+2025-03-24 15:34:34 - [Server 0] - INFO - [ROUND 10]
+2025-03-24 15:34:41 - [Server 0] - INFO - configure_fit: strategy sampled 2 clients (out of 2)
+2025-03-24 15:34:42 - [Server 0] - INFO - aggregate_fit: received 0 results and 2 failures
+2025-03-24 15:36:18 - [Server 0] - INFO - configure_evaluate: strategy sampled 2 clients (out of 2)
+2025-03-24 15:36:20 - [Server 0] - INFO - aggregate_evaluate: received 0 results and 2 failures
+2025-03-24 15:36:20 - [Server 0] - INFO - 
+2025-03-24 15:36:20 - [Server 0] - INFO - [SUMMARY]
+2025-03-24 15:36:20 - [Server 0] - INFO - Run finished 10 round(s) in 207.98s
+2025-03-24 15:36:20 - [Server 0] - INFO - 
