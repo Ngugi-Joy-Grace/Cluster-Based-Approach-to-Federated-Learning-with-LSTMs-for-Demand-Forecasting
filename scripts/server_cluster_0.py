@@ -37,11 +37,11 @@ if __name__ == "__main__":
 
     # Define federated averaging strategy
     strategy = fl.server.strategy.FedAvg(
-        min_available_clients=25,
+        min_available_clients=30,
         fraction_fit=1,
         fraction_evaluate=1,
-        min_fit_clients=25,
-        min_evaluate_clients=25,
+        min_fit_clients=30,
+        min_evaluate_clients=30,
         fit_metrics_aggregation_fn=aggregate_metrics,
         evaluate_metrics_aggregation_fn=aggregate_metrics
     )
@@ -49,6 +49,6 @@ if __name__ == "__main__":
      # Start Flower server
     fl.server.start_server(
         server_address="127.0.0.1:8080",
-        config=fl.server.ServerConfig(num_rounds=10),
+        config=fl.server.ServerConfig(num_rounds=30),
         strategy=strategy
     )

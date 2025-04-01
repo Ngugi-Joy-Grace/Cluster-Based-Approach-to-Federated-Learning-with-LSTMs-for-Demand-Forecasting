@@ -36,11 +36,11 @@ if __name__ == "__main__":
     setup_server_logging(cluster_id)
     
     strategy = fl.server.strategy.FedAvg(
-        min_available_clients=9,
+        min_available_clients=30,
         fraction_fit=1,
         fraction_evaluate=1,
-        min_fit_clients=9,
-        min_evaluate_clients=9,
+        min_fit_clients=30,
+        min_evaluate_clients=30,
         fit_metrics_aggregation_fn=aggregate_metrics,
         evaluate_metrics_aggregation_fn=aggregate_metrics
     )
@@ -48,7 +48,7 @@ if __name__ == "__main__":
   
    # Start the server application listening at 127.0.0.1:8082
     fl.server.start_server(
-        config=fl.server.ServerConfig(num_rounds=10),
+        config=fl.server.ServerConfig(num_rounds=30),
         server_address="127.0.0.1:8082",
         strategy=strategy
     )

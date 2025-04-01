@@ -38,7 +38,12 @@ class StoreClient(fl.client.NumPyClient):
         # shape => (timesteps, num_features)
         timesteps = self.x_train.shape[1]
         num_features = self.x_train.shape[2]
-        self.model = build_lstm_model((timesteps, num_features))
+        self.model = build_lstm_model((timesteps, num_features),
+                                      lstm_units_1=128,
+                                      lstm_units_2=64,
+                                      dropout_rate=0.3,
+                                      learning_rate=5e-4
+                                      )
 
     def _load_data(self, data_dir: Path):
         """
@@ -92,7 +97,7 @@ class StoreClient(fl.client.NumPyClient):
             self.y_train,
             epochs=10,
             batch_size=32,
-            verbose=0
+            verbose=2
         )
         logging.info(f"[Store {self.store_id}] Local training complete.")
 
@@ -114,8 +119,8 @@ class StoreClient(fl.client.NumPyClient):
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-    client = StoreClient(cluster_id=0, store_id=1, data_dir=Path("../data/federated_data"))
+    client = StoreClient(cluster_id=0, store_id=1, data_dir=Path("../data/federated_data_scaled"))
     logging.info("Testing single-client local training...")
-    client.model.fit(client.x_train, client.y_train, epochs=1, batch_size=32)
+    client.model.fit(client.x_train, client.y_train, epochs=30, batch_size=32, verbose=2)
     loss, mae = client.model.evaluate(client.x_val, client.y_val)
     logging.info(f"Single-client test complete - Loss: {loss:.4f}, MAE: {mae:.4f}")

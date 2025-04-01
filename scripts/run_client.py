@@ -20,7 +20,7 @@ if __name__ == "__main__":
     setup_clients_logging(log_file_path, cluster_id=cluster_id)
 
     # Path to the folder containing cluster_{cluster_id}/store_{store_id}.pkl
-    FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
+    FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data_scaled"
 
     # Create a client instance
     client_instance = StoreClient(cluster_id, store_id, FEDERATED_DATA_DIR)

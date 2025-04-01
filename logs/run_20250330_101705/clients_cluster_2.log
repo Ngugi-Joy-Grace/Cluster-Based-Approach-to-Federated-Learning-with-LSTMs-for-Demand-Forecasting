@@ -1,0 +1,2302 @@
+2025-03-30 12:42:31 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:31 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 547, cluster 2...
+2025-03-30 12:42:31 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:31 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 1038, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 348, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 612, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 345, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 186, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 1067, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 1056, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 1049, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 127, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 598, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 471, cluster 2...
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:32 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 619, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 89, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 858, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 637, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 115, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - [Store 547, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 778, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Received: get_parameters message 7ce039e9-5c7d-4aa2-9dab-1df75dcb78d5
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - [Store 547] Sending model parameters to server.
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 719, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 820, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 575, cluster 2...
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:42:33 - [Cluster 2 - CLIENT] - INFO - [Store 1038, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - [Store 348, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 283, cluster 2...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 144, cluster 2...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - Initialized client logging for cluster 2 -> ../logs/run_20250330_101705/clients_cluster_2.log
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - Loading pickle data for store 399, cluster 2...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_train shape: (576, 7, 27), y_train shape: (576, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - x_val shape: (139, 7, 27), y_val shape: (139, 1)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - [Store 1056, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - [Store 186, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - [Store 1049, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:34 - [Cluster 2 - CLIENT] - INFO - [Store 345, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 612, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 1067, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message c477c7b4-718b-4433-86eb-e2d1f9396a4e
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message efa74dcb-abcc-48e0-bae2-062970a483d9
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message c4657102-2858-472b-a1b2-47c309f3837f
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message 48d8bc8e-74ae-401e-9640-d66703a89e16
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message eda60df4-f945-4836-8fbf-c6976b1876ef
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message 9f003d04-2fe1-4576-bfdf-2c5064cd2621
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message 8d9db3a6-71d4-40b6-ac9d-a57f4e563469
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message 99c956b7-254f-4d47-bea3-a44f592b0da6
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - Received: train message 987b4c5f-ef0d-4682-805d-2bc11cb407e0
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 127, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 471, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 89, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 598, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 619, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 858, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 637, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 778, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 115, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 820, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:35 - [Cluster 2 - CLIENT] - INFO - [Store 575, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - INFO - [Store 719, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - INFO - [Store 399, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - INFO - [Store 283, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - INFO - [Store 144, Cluster 2] Connecting to 127.0.0.1:8082 ...
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - Opened insecure gRPC connection (no certificates were passed)
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.IDLE
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.CONNECTING
+2025-03-30 12:42:36 - [Cluster 2 - CLIENT] - DEBUG - ChannelConnectivity.READY
+2025-03-30 12:43:54 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 12:43:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:54 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 5ae55c79-16a4-42bf-ab7d-6ad738429372
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 8f6d7931-056e-40d7-803f-dc1b2624dc7b
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ff0fbfab-9755-47a2-845d-3581f32cd044
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 5cc257cb-56f7-497d-bdb4-688d6b8226d1
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d4cac668-c1ba-4dda-92db-2caa8ae61533
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ed0a7a3f-c83b-4d02-ba54-86abefcaac4b
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message aef349f4-6881-4794-9c21-ef2d97f0a82e
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bb1430cb-59da-4c94-847e-e16c9378852d
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f661d38e-06fe-499b-9f3e-959c74a977dc
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3359b41a-9c6e-46f6-b527-e071a26579b1
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 08bdf1e6-b9a0-4d95-8e1a-477165e1e4e0
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 36860926-b141-4c5c-93e6-caa015c148be
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 9beb2107-0ba7-415e-b624-72eca54d0aca
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 220219c7-0b89-4259-9d72-e8bdf7ab86ae
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3941b784-c720-4aea-8135-bada56bed1c4
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.6008, MAE: 0.6041
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 0851bcc6-d894-440f-915d-54a7a3c26ef1
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.3909, MAE: 0.4702
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:56 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message eaa57303-49c9-4771-afd4-c61a5e7b3d1f
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.4799, MAE: 0.4972
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 1d8f65a5-bdde-4cde-ae1d-9fa39022c5c7
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.5769, MAE: 0.6055
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 8c6d6418-96a5-4304-b288-cf712bc91845
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.6062, MAE: 0.6156
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bc8d8197-dc3b-4030-b2c1-0a776837016d
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.4620, MAE: 0.4936
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:57 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 36299244-a575-445d-a5be-c5cd31320b0d
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.4862, MAE: 0.4943
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 65fff89f-d207-4080-a744-041c4ff78410
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.4895, MAE: 0.5113
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d565f23a-7580-45e4-9b4e-647618a655eb
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.6476, MAE: 0.6756
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.5303, MAE: 0.5705
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.5872, MAE: 0.5666
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.6678, MAE: 0.6569
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.4394, MAE: 0.4583
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.6635, MAE: 0.6569
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.5445, MAE: 0.5821
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.5268, MAE: 0.5637
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.5133, MAE: 0.5036
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.5182, MAE: 0.5121
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.5576, MAE: 0.5500
+2025-03-30 12:43:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.7235, MAE: 0.6660
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.4897, MAE: 0.5130
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 1.2325, MAE: 0.9380
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.6428, MAE: 0.5949
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message b0b857f6-720b-4d86-9d0a-7e20bfb1f9f8
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 79412920-a919-4d4b-aebf-762803ad4d67
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 1f7ec63b-e88f-452a-9f11-9841625d2576
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message efb79da1-8885-4fca-bb3b-f895e02db3db
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 15514624-2aa3-421d-94cb-675b9621d61f
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message f6e4a46d-bf83-4dc4-9c10-1ceac464d216
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 5bafd87f-9ccf-4565-918e-fc237a6bb486
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 042cc6d8-0602-45ac-83c5-56d4fd71601d
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message ef4a8030-20cf-4f8e-bedb-8f07aee8c604
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message e07f6e5a-4d79-47d2-b163-cbbbea582390
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 51ce827a-02f7-494f-bb31-3787e7f4a758
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 250b07b4-c3b9-419b-80e5-202fc2138f91
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 2f70f24c-ffe9-459f-b9b3-9f7eb1c0ceaf
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message e2cf9fd0-537d-4bca-bc95-c0c0d4f96af8
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - Received: train message 165655ef-cd51-43c3-9a8e-5cd24e3ce900
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 12:43:59 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 12:45:41 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 12:45:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:45:42 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:45:42 - [Cluster 2 - CLIENT] - INFO - Received: train message a6670cb7-6608-4f9a-b548-9db16008a220
+2025-03-30 12:45:42 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - Received: train message 8c01b707-05d4-4615-8f5e-e81580c2cb7d
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - Received: train message 52083407-055e-4b7f-903e-1c8b32613055
+2025-03-30 12:45:44 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 12:45:45 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 12:45:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:45:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:45:45 - [Cluster 2 - CLIENT] - INFO - Received: train message ce249868-5f4f-4054-9863-383da7598cd9
+2025-03-30 12:45:45 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 12:45:45 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - Received: train message 580d040a-18c4-42ec-ae88-285663347472
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - Received: train message d1f022dc-e4e8-4625-b19a-465344dfc5af
+2025-03-30 12:45:46 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - Received: train message 3ddf3895-ec34-473e-8425-87cff0ea9ab3
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - Received: train message 026a7617-5fe3-4339-9d57-b6b629c1c2a7
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 12:46:22 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 12:46:24 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 12:46:24 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:25 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 12:46:25 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:26 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 12:46:26 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:26 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 12:46:26 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:27 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 12:46:27 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:29 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 12:46:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:46:32 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 12:46:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:04 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 12:47:04 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:05 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 12:47:05 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 12:47:05 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:05 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:21 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 12:47:21 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:21 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 12:47:21 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 12:47:21 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:21 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 9ae2d965-d3cb-4294-b16e-c8b9755b2554
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 4d3cbbaa-14ee-47f9-9a78-8f9a631f1687
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 52aba2da-5e14-42f6-b40a-8d9839b1dcb9
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f8e27f75-6c3d-4673-b626-8a2944b9765d
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 72c9cca7-8a09-4826-bb6b-7fde07dc3bb4
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 70bd5c2d-5456-48b3-a0d0-db8d5148eb89
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 257411ad-5465-47f8-8516-79710a67e7db
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f2ebcaa8-7f0b-443e-91d9-4802c2db378e
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 67976c57-ba58-4e3c-a022-f0fe0e84ce51
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c89709f2-d3f8-49a0-bbb8-a1416f1b93e2
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d367ed5a-fc8a-4f14-a08e-ac2d3414f62f
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ca7bffb0-109b-4c4b-bcff-5115c2f77322
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c8814e59-7be9-4ba8-b87d-c16f16238c2d
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c80ebb0d-2ca9-430f-ab69-d8b982b750b5
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:29 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 7ca022d0-59ee-4c07-817f-c6747863ece5
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.4041, MAE: 0.4853
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b4b191c7-70ed-4d82-bc3a-431ba553dde5
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3988, MAE: 0.4450
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.4790, MAE: 0.5255
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.2489, MAE: 0.3415
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3964, MAE: 0.4208
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.5350, MAE: 0.5143
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e9f563cd-e41b-4b32-8776-9eb722eaab38
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 77341337-7d17-43e7-8b23-ac0a2392eb7e
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.3057, MAE: 0.3422
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 865ba073-1df9-4af1-98f6-c0175368aa6b
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.3080, MAE: 0.3455
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2814, MAE: 0.3427
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d76cc794-16fc-4aa3-a870-594ea229548d
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.4251, MAE: 0.4448
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4936, MAE: 0.5201
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.4355, MAE: 0.4587
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.4288, MAE: 0.4718
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e515b53a-7a43-44e5-b278-23255b9ea96c
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3444c7d0-c0c4-4022-a20b-73b891a8558f
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 784169d0-1783-49d2-a98f-a45fc3748908
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2899, MAE: 0.3174
+2025-03-30 12:47:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.3017, MAE: 0.3702
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.3619, MAE: 0.4285
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3339, MAE: 0.3730
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.3537, MAE: 0.3996
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.3069, MAE: 0.3593
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.9926, MAE: 0.8196
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.3821, MAE: 0.4173
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.3130, MAE: 0.3511
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.5032, MAE: 0.5349
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message dd2cad5c-368e-46d9-bc5b-813dc10ecc8c
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message 8e5a4b37-f87c-44fe-ad9d-faa8e1801334
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message d2e0f249-3a65-4b0a-9704-199dc18f19d8
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message af135161-c7a2-4f77-87c3-bf1e958e2678
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message 020ee3c4-1761-418d-bfb4-25c8bb0d5893
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message 017c8b5d-8052-4093-a211-23e328f7dbc2
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message f96d3c6c-c18f-440a-8536-6fbbcba2eb2f
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message bc9ec3e4-2ecf-4b8b-9c17-59cbf6a5c17e
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message 9d3c5a93-78fc-4901-a35e-d306d232a809
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message b43a8ef1-bea4-4918-936c-1b4cdcadbd99
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message 67d14a92-fc2c-45b1-b1e8-1bd67382bc2e
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message b1891fcb-7c0f-427f-b0d8-6bb4f482de97
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message 013fd3c8-b5a2-467c-911d-8c57c97e9de0
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message cebe1bd2-f4ad-4711-b68d-3d5bbf116aef
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - Received: train message 7cc72991-48c2-4674-bda6-351c559f7165
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 12:47:31 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 12:49:40 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 12:49:41 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:41 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:41 - [Cluster 2 - CLIENT] - INFO - Received: train message 13034bbb-00e5-437d-9738-2b0a89f7c123
+2025-03-30 12:49:41 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 12:49:41 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Received: train message 2c9eaafc-db83-47b8-b1d3-ea9079b41c8e
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Received: train message fce8e312-96a8-45a6-9352-68d281d27129
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Received: train message e412f746-a2d0-47fd-ac52-7f3365a3bc84
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - Received: train message 9b10a144-6ba7-47fe-b137-f211df5a16d1
+2025-03-30 12:49:42 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - Received: train message 8d16f8ad-ff7b-4383-b602-db75f3172baf
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - Received: train message f7b1b451-9b31-4b13-b2c2-9020da785619
+2025-03-30 12:49:43 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - Received: train message 4f807ae2-d345-4f69-abd7-b48c48072c1f
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:46 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 12:49:46 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:47 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 12:49:47 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:48 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 12:49:48 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:48 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 12:49:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:49:49 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 12:49:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:51 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 12:50:51 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:52 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 12:50:52 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:52 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 12:50:52 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 40b63ab3-fd8e-4d0e-86ac-fe3a620e07db
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 8b9c6290-bc9a-419f-9993-91ebf8234278
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 98228731-fa6e-483b-831e-8b2aae3a1691
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e81b4639-859d-479e-92fb-ae84ded96d09
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 0a5b3dd0-e1b9-4adb-b2d2-bbd1475a66e3
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message dd835b67-7739-4e9d-87ec-e6dc1459cc78
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 19c48848-43a6-448b-bdf4-04d0aa72edb7
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 607f70fc-ab5f-4af7-a3d0-24de5d8ac095
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 4559cfe3-bcd7-4881-91d0-1ff252363b36
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 06eeefe2-a92d-4b5c-b873-370d51f40ce7
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2183be74-04da-4096-b0aa-dd751aba4b20
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e581ab24-5635-4de6-a08f-8a859e4cfb43
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 23ccdc56-f742-4d48-9034-ae7fdc06cff0
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bdff983a-bb1b-4722-a685-724b46a6a7e5
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:53 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c5054d80-6500-477b-96f0-722acb35931f
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4722, MAE: 0.4988
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b1c7fe29-dd94-4329-b27a-3b90810a670c
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2912, MAE: 0.3216
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2eece19c-e877-4e69-9794-5d1f445361e1
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.3481, MAE: 0.4169
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 9d070f6b-0027-4582-8044-3ddbf5d9129d
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2865, MAE: 0.3312
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3799, MAE: 0.4640
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.9076, MAE: 0.7792
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.4149, MAE: 0.4375
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3570, MAE: 0.3850
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message df380df4-4ef3-4956-8715-9bd990685ff9
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b9a74932-a875-42c8-b27b-848af44819a6
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3726, MAE: 0.4181
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3191, MAE: 0.3588
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 79e790c1-d0c9-4e8d-9bb2-e9864e3d33a1
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2712, MAE: 0.3326
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 507255ba-2cd2-436f-a440-4de155f7bac6
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c836b45c-31c5-47b6-b4c1-c444b5ec24d4
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.3604, MAE: 0.4010
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.4691, MAE: 0.5136
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2764, MAE: 0.3429
+2025-03-30 12:50:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.4892, MAE: 0.4842
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2878, MAE: 0.3155
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.2327, MAE: 0.3231
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.3366, MAE: 0.3830
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2676, MAE: 0.2889
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.4747, MAE: 0.5084
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3793, MAE: 0.4087
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2864, MAE: 0.3195
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.4101, MAE: 0.4511
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 6817a40f-6812-4ae9-8d0c-9ebac68a1298
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 5312c058-0811-476c-a447-e5c2b8a6ec16
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 5a25077e-f44e-4a29-b498-4e17f9702e52
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message c6750f5c-8fe1-4461-934f-fc0c7bcc23b6
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 3340b6b8-dfb1-4f6a-9e4d-89a479403334
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 072ee358-35ef-4ce6-9359-350c21472f43
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 97c13ddb-568e-453b-b6a1-7098bc8c71aa
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message c70c69c8-9a3a-454e-833c-b76a3f51666c
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 95cca45a-c393-49a2-9563-64f0f45bb338
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 4eb8ee0f-2c2c-48a5-a63f-d24bf0a0b170
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 38a290a8-e4c4-423b-a50b-0eee1f61aac3
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 43fd40d6-ff11-4275-aa63-c6797c0dbe00
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 946673f8-be82-45bf-a5ee-42af33e7d137
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 27953c82-3b14-46fe-8d28-d4ca73a53fda
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 5bcc94e6-17f8-482c-837f-03780fc8cc36
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 12:50:55 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 12:53:05 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 12:53:05 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:05 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:05 - [Cluster 2 - CLIENT] - INFO - Received: train message 3d275d41-4b03-4f8b-a80d-0a1bcbf0a99a
+2025-03-30 12:53:05 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - Received: train message 8d8361ae-1e8c-4225-b4fc-9fa3401ee4c7
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:07 - [Cluster 2 - CLIENT] - INFO - Received: train message 8c4f690b-9ff6-4a44-a6a7-8b6b1ed485ad
+2025-03-30 12:53:08 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 12:53:08 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 12:53:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 4d9229b8-1c76-4d14-8a66-3345aa51d34d
+2025-03-30 12:53:08 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Received: train message 0944128d-7a7c-4498-a0e2-4c30698c07e3
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Received: train message f16c8ec4-7ac8-4e81-bf99-99b6cff35cd7
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Received: train message 444d6807-a2d3-49bc-b03b-3ec2e1d9d6ec
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - Received: train message 4bb42617-4f64-427b-90cb-15559b16f1bb
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 12:53:09 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 12:53:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:10 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 12:53:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:10 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 12:53:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:11 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 12:53:11 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 12:53:11 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:11 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:11 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 12:53:11 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:53:12 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 12:53:12 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 12:54:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2f91a4a0-23f0-44e1-bf91-90fa5ef348fc
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 4b11e939-49b8-4311-8a34-62d265c4ff1b
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d72772b8-08ab-48ad-afc2-dd071fac29b7
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 24021ebf-d78f-48e6-a20d-8fa54b9f58b3
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 6e0af333-e4ca-488b-a69c-c2723b0d4055
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message aab32aab-668e-4674-aa62-48230331eb09
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d13f2012-525f-4706-aa91-e9286073596b
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d92de9ce-5b66-4419-bbf5-f260b1e8dfd4
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message fe239bed-2086-4d4d-8baf-f12c55cd74e4
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message aa012009-d690-4e9c-a474-163ec4f4ad2c
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 9c9d5a17-00d7-48c2-b05c-36991d1ea17c
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 0146d687-f3e0-448a-b65c-f066bac98f40
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bf465b7e-6884-44f5-bc61-69850d5fff5f
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 932753cf-31bd-4175-b5dc-b81b60f5f4e7
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 50c1b06a-a022-4dfc-aa5f-1d8cdafcbe01
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.8212, MAE: 0.7286
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d815b485-c93d-4af8-8fbb-aa953e4281bd
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2699, MAE: 0.3405
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bb8151e7-8139-41a3-9ddb-564c62444dee
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3721, MAE: 0.4535
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 499bae5b-1cc6-47d5-a878-1fe35820ffcd
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.3503, MAE: 0.3980
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.2234, MAE: 0.3115
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.3252, MAE: 0.3751
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.3889, MAE: 0.4292
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.4521, MAE: 0.4952
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2601, MAE: 0.2833
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4504, MAE: 0.4795
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2845, MAE: 0.3309
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3576, MAE: 0.4003
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.4430, MAE: 0.4772
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ab231fed-835c-439d-a46e-b8898d583575
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 283e231c-7362-474a-b9fc-02b6459f6c47
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ba22fa61-c374-4419-9a5e-44081cf59843
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 66592e53-8804-42cf-8cc8-b52ecc99a758
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message a66d3efa-0794-40c0-a4ec-48af66ad8416
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3192, MAE: 0.3612
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2713, MAE: 0.3377
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.3958, MAE: 0.4213
+2025-03-30 12:54:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3618, MAE: 0.3974
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.3365, MAE: 0.4074
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3396, MAE: 0.3709
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2789, MAE: 0.3035
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2820, MAE: 0.3130
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.4586, MAE: 0.4623
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2768, MAE: 0.3132
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message cb012c81-1e6e-4629-9a09-c640bea1e57c
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message f8f448e7-d767-47c7-85c4-7087bb98a57b
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message b339610e-906e-4168-b0ef-8fc2b763449f
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message ecd477b9-58a7-4040-bb70-5dc4bbac5f38
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message 5e8366d5-dbb7-49c5-ae25-21a7ffd376d0
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message f7b33ad8-2df9-4228-afe0-4ef849c7b0d9
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message 02b3ad1a-36b6-4dca-b497-694dd9fc63b5
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message 0554e9ab-dca1-4b65-8292-0555202d3673
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message 6482e1ae-288d-42d6-aa0a-6f3e14aa46c3
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message afdbe7c0-a921-458c-964c-06d8220a2364
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message 55ff70b3-e67d-455c-bca6-83288fa49bb5
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message dfa63768-a263-4116-9ce4-fdaea9f8df29
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message 01f45bad-e577-4e12-99c3-6ad056ab5429
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message 65177f09-0bf8-4390-badc-8f56b6476181
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - Received: train message c34ca1c6-4d6b-477f-b624-2a13e2856894
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 12:54:20 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 12:56:31 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 12:56:31 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - Received: train message a6f2f8f7-e00d-434c-bc48-344c276a98e0
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - Received: train message c367370c-75df-4959-8c75-415642061147
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 5b702cea-f676-4736-97ed-05339efa3398
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 12:56:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - Received: train message de8986fe-c4f5-4d6a-9f16-96928f28fa04
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - Received: train message ae064343-159d-418c-bbed-999a820232f3
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 12:56:33 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Received: train message 45904b99-a6aa-4379-a3cf-aaed1409b59e
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Received: train message 224fd2ca-0412-4747-93d1-28ebcb11489f
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Received: train message 7020acc6-8684-4f4c-9338-6320f7b3bcd9
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 12:56:34 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:35 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 12:56:35 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:36 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 12:56:36 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 12:56:36 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:36 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:36 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 12:56:36 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:56:40 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 12:56:40 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:41 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 12:57:41 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 12:57:41 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:41 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 12:57:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message a730b80f-4a76-4ca2-8464-9974e250ae1b
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b88c2464-8cfb-477e-ac55-3b7d7d0ed799
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2cf15953-2fb9-4e1d-9578-a624b7cfb973
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3300b06e-d5bd-4eca-a7d1-de72b38f42c9
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e1b02f0d-1ce3-4fa9-af62-74d46808c71d
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 11b57e75-ad44-44d0-8e7d-3c85af4eb6eb
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bb991b53-1ebf-4ec2-8e72-da6454f5ff5d
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d62be6c7-6a92-46f0-b5c1-0cf7de90efe3
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bb796130-cccc-4e3c-8296-5768317534d7
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 549edf1c-6893-40fc-8833-7e354e8b42ef
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 559f3e66-154a-47b0-8791-d1b39fc858ee
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 4e429b86-e561-4543-81d7-32ee1dce753f
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 10a73133-56a7-4543-a67a-85c7c392e01b
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c04765fa-1ef0-460d-bbfb-1cf3a56ae74a
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:43 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2adf5c15-5144-48b5-8843-c7d5f26215c9
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3203, MAE: 0.3658
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2501, MAE: 0.2811
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 02093cef-d543-40bd-9a29-6a4819eb8945
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message cf58d643-cb81-442e-a0b9-6672045779c9
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2809, MAE: 0.3316
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2646, MAE: 0.3106
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.4158, MAE: 0.4516
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2740, MAE: 0.3123
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.3129, MAE: 0.3669
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.3201, MAE: 0.3924
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3266, MAE: 0.3686
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.2100, MAE: 0.2939
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 20986de7-5995-48ab-98bc-d3247dded440
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.3354, MAE: 0.3871
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d42b76c7-9eb1-427f-adfb-586e03c9a17e
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 7b1b768f-b918-475a-88f5-bf8353dfe1df
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message cef88b2e-ccd7-457b-a5ad-8523c9fd3fe8
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 0c04b8f7-c697-4f77-a20b-47934510b784
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message a7e83cb3-c122-40f7-99aa-bf272c810344
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.4363, MAE: 0.4479
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2709, MAE: 0.2982
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.7546, MAE: 0.6845
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.3804, MAE: 0.4111
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3449, MAE: 0.3869
+2025-03-30 12:57:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2578, MAE: 0.3318
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.3707, MAE: 0.4135
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3524, MAE: 0.3954
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4359, MAE: 0.4610
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2683, MAE: 0.3387
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.4312, MAE: 0.4746
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3612, MAE: 0.4348
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message cd309693-d9fd-4bfd-afab-c1861a7b870c
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 3657b0e5-c4b8-464b-8e09-12ffb648ccaa
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 15e0854a-d107-4c00-98fc-bd29b4f46460
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 74c372a9-36bf-4eeb-bd31-f9eaaead4d93
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message d6412469-e71c-47d9-997f-bfc875052802
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 053f5da9-b018-4929-a8c1-1db01077a19b
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 86c710d1-7fa3-4059-b5ba-26552e347f94
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 8a4b5ecf-c647-4721-893c-74ba88d69ae5
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message c5cbe34e-1576-47e9-b2a2-7c688dbd12b7
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 4f73a4c5-faa5-4cd4-af56-013eade42694
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 4a6ec1bc-500e-49b7-b7c5-380cc6b9bb2d
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 00747640-a943-45da-84a7-b1bda367c067
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 7b699f0e-8e85-4467-a375-6510af2e6e77
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 159cf20b-649a-45e6-b587-9b1d9391a27f
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 9d35fa38-27ee-4c2b-a2b6-fca8a9ed2e11
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 12:57:45 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 12:59:55 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 12:59:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:55 - [Cluster 2 - CLIENT] - INFO - Received: train message 5e0d8e33-37d9-48db-b081-6f024f78451b
+2025-03-30 12:59:55 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 12:59:55 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 12:59:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 67fe02c2-f06a-41f4-8f77-c3212db7a0ca
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Received: train message a2c84ed5-db0e-4213-a5db-0eff02120e3d
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Received: train message e5229c18-c4d1-416d-89aa-e2c6c0f3f376
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Received: train message c989abb1-d895-442d-9705-c41d87932d2d
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 1b8ad00a-cc1b-42de-8f3f-e237368e194f
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 12:59:56 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - Received: train message dda5f7fc-98af-45dc-bca7-e24d87cd20e5
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - Received: train message 769a099d-a4f9-4833-8d0f-fad8d4e30471
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 12:59:57 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:58 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 12:59:58 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:59 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 12:59:59 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 12:59:59 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 12:59:59 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:00:00 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 13:00:00 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:00:02 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 13:00:02 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:00:05 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 13:00:05 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 13:01:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3ed5523a-25cd-40a1-b63b-a20ffc84ff47
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 436572d7-34e3-4372-8b0d-b368f3cd9487
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 97e74383-77da-4da9-ad57-46ddaf1070a6
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d2b96f9d-d5cf-4ec6-bf45-02884587b9c0
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c1b09e60-d7eb-4614-b3c9-837cb8271832
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2becdf8a-8bb6-409d-99cd-566e20514440
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3cb569c0-e450-4005-a346-35db4c2f2f1c
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 589050f3-88f2-4239-9d51-a33836e49470
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d15beefe-6052-4563-ab75-66b621c61b27
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e62cae6a-02b2-4d4f-a246-025fd7c03906
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 30df3c40-6030-4a2f-bea7-e8ca02df4ea6
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 8cd05c0d-1ef3-4413-a825-63d94ccf0333
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2ed99d2c-41e9-404f-90d2-9c385df41583
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message bb6fe734-1deb-4651-a89f-150906867af3
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:07 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b7ce8989-7a36-4d2f-bfcf-de10b8752941
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.3626, MAE: 0.4034
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b7434831-ee84-41c8-b0f6-a58ec4444b1f
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3539, MAE: 0.3957
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.3727, MAE: 0.4056
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.4207, MAE: 0.4320
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 83da143b-d318-4f8f-b6ea-2a019df5eb11
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message a383fff8-140f-4712-8757-b3417bcff6a7
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 294c503f-ffe5-42b7-b46b-9b5fca272ecc
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2569, MAE: 0.3088
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3628, MAE: 0.4273
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2706, MAE: 0.3145
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3390, MAE: 0.3780
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c91c2b9e-af26-4fa7-bbec-1c3de84e79f8
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3260, MAE: 0.3702
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 44c77931-949e-44d5-9570-48d34bddd271
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 69a1490e-e4a1-42a2-9a4f-c59fe5110401
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 1d6f4b7e-464d-4797-961a-2b8e52374a45
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2498, MAE: 0.3276
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2725, MAE: 0.2968
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2666, MAE: 0.3397
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.4077, MAE: 0.4510
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2483, MAE: 0.2814
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2838, MAE: 0.3340
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.1998, MAE: 0.2787
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.7128, MAE: 0.6548
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3219, MAE: 0.3707
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.3089, MAE: 0.3656
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.3197, MAE: 0.3751
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4300, MAE: 0.4432
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.3094, MAE: 0.3833
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.3990, MAE: 0.4321
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 4d50de49-d77a-4239-97d2-503ea5ba4af2
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 8ded8df0-df02-4a95-9cae-9f8e618b8d5b
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 9e15387c-3c03-4a91-b4ef-db4450b6f5d0
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 4c2d0717-43a1-43e1-83c4-37959f4116ea
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 171ecae6-d1cc-4d1c-9d7d-118f060e0f7b
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message a2dd397f-a71c-43fa-83a9-b8d0c1cdc26f
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 565ad975-577e-4c54-b553-20b65f6dcb3f
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 2f09ab34-dcd1-45f6-8861-c17c4bcfb172
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message d9430cc1-6064-467a-884b-2dbc598892da
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 312781b1-02d8-44e2-81e2-b8819c4cc0c8
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 7a92a899-509f-4e25-a243-eedebff2b7b1
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message a7c731d0-279a-4621-9113-b01dece70c75
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message 6982b557-6d4f-43b7-b6c4-bbb7297dbf95
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message e45960ca-3ef5-4e33-9ec6-e41835505ced
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - Received: train message ba557056-3f82-48c4-8961-e8d540d14bea
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 13:01:08 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 13:03:20 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 13:03:20 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:20 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:20 - [Cluster 2 - CLIENT] - INFO - Received: train message dc1ce317-c7ff-45e8-ba93-3c1e89cc93c1
+2025-03-30 13:03:20 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - Received: train message be2cf787-90ec-4803-88fd-54c19b52b1e4
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - Received: train message 49e59752-c44b-41d6-9ead-da6cadde401b
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - Received: train message 9caff2cb-0654-4a82-8a7e-0ae77dfaa438
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 13:03:21 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Received: train message 3619011a-c5e9-404f-b708-9519c17f53ec
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Received: train message b67fb606-f1fd-4f56-9d16-a917f35b6c4b
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Received: train message 361ef493-5b52-404a-808d-68010651cb01
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Received: train message 0262e70e-145b-410a-998e-04659ffa7b7f
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:22 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:23 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 13:03:24 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:03:24 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 13:03:24 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 263badbe-0c5c-4ff7-97bb-9c3fee497a37
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ba5c13d8-87dc-4122-a538-9aadf7e68e74
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 4846fefa-e0ed-4c56-a560-e303dd005c8a
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 9be8fd01-3d91-4a91-aa00-2e4783be75de
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 774132dd-9111-4018-b969-2cce2dc060ca
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 80ab0507-c087-406b-a5ed-1855a5878eda
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 328324d2-ff5c-4efb-bc1b-1027ce8760f2
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f623c194-79a4-4512-9128-3042ea7fbc3f
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2258a413-4bb9-49d4-8147-b81df0747b4a
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 1dd48b8a-4bdf-4936-ae71-dbf3a2daa6bd
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e03a900f-341e-43e4-8790-d685cf600f61
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e94b4367-09a7-464d-8b7f-450b33508444
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 64004016-246e-47a9-a4bb-21c9d6f23163
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 511de306-dbe2-469f-8bea-727002e2e2d3
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:30 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message a9a8772b-b137-4eed-aa15-fbf98a81d393
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.3097, MAE: 0.3688
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 7e54f092-5f5a-4917-8441-1f61ddb32902
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2861, MAE: 0.3274
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2496, MAE: 0.2824
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message fd37e8a7-0a9b-4c81-b8c6-8c1bb4a0ab64
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 8ca72a07-a847-47aa-be9d-e11ed726be90
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2774, MAE: 0.2967
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3283, MAE: 0.3692
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3e7fe344-9f19-4bd1-8e45-0b2601588818
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 056dfb6a-f2e1-40d6-828a-b0fedc463564
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.1966, MAE: 0.2681
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2683, MAE: 0.3105
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3320, MAE: 0.3682
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.3940, MAE: 0.4314
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2424, MAE: 0.3205
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3616, MAE: 0.4178
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 07809e9b-f556-4160-ae66-c3b08038730f
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.2996, MAE: 0.3689
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2e5726e7-da0c-4a40-8365-c0a0e9f8e00c
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2e3d0463-c54e-4c92-a7c9-73b45928a703
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2641, MAE: 0.3345
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3529, MAE: 0.3943
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.4124, MAE: 0.4193
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:31 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3194, MAE: 0.3700
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.3699, MAE: 0.3961
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.3545, MAE: 0.3899
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.3903, MAE: 0.4182
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.3037, MAE: 0.3549
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2516, MAE: 0.3038
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.6753, MAE: 0.6232
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4323, MAE: 0.4275
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 4ca4e6b6-ffdc-4297-86c4-8f9342e435e9
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message c6e6f05f-fd45-4139-a4b8-46b309935ce2
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message bd04e84c-165b-4eab-b65b-b457344fd033
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message d5636def-6150-49c3-a80a-717b3f52e979
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message d259692c-5550-4537-b25e-5e224c2a9cf6
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 2bee46b7-abb2-49d0-88d7-3a8eb53b44fa
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 7079e259-3f0d-4a4d-97e4-250d7146e048
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 776676f1-b7e6-4457-b5d5-028edd10400d
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message a0c0a051-fa8d-4de4-8a1a-93591838901e
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 3119f4a5-a9d9-4e53-bfaf-0145e903f0d9
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 2a6efe69-196e-4c85-9448-b5e2f897a42c
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message cd873073-67da-40d7-8b60-f2103de264ff
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 7de86f1a-ce11-4750-b67c-5e587cad2b13
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 0292106e-76e2-4db6-b570-87606f55aca3
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - Received: train message 3185c827-52e1-4808-aaf6-c1bdc02fdc30
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 13:04:32 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - Received: train message c536aec8-38dc-4854-8905-c683b809854d
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - Received: train message 3214a4e6-d6c2-4a81-9d24-0e0dec859f65
+2025-03-30 13:06:42 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 13:06:43 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 13:06:43 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:43 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:43 - [Cluster 2 - CLIENT] - INFO - Received: train message c203a34b-b6e2-4325-8275-04a769a5a3be
+2025-03-30 13:06:43 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 13:06:43 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 13:06:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:44 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:44 - [Cluster 2 - CLIENT] - INFO - Received: train message 7abbdeb0-d734-4ac9-a8af-6dafebdfdb38
+2025-03-30 13:06:44 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 164deaf7-a30b-4633-8de4-ac68630ad849
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Received: train message 3cf9fd92-571b-4edd-8ed6-7b2657092242
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Received: train message e6b0d406-0f50-43cd-b0e2-946696344e39
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Received: train message bdf6c239-e3a4-42b2-9166-cf5f76ff3d46
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:45 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 13:06:46 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 13:06:46 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:46 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 13:06:46 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:47 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 13:06:47 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:48 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 13:06:48 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:50 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 13:06:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:06:51 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 13:06:51 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:52 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 13:07:52 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 13:07:52 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:52 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:53 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 13:07:53 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:53 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 13:07:53 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 17633b19-4e1a-4687-8ddb-b1c578cd4d97
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 1cf0a319-c0a4-4cb0-95d4-b0c0ab7b333b
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 7838efb6-a98c-42a0-baa5-efac9e2c53f1
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message beeb41dc-e495-4e64-98dc-e5f8c4d166b3
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e7c778b6-976e-42aa-bb97-6952f45a8753
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 52ab6674-a89e-411d-a4b3-0a143592c2a6
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b4c7e811-2d14-4dcc-a521-663176f5f30f
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 5351e955-42aa-4458-86ef-5be7dbe53acf
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ca2c3d22-c132-45d1-b733-ee849cee83a9
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 0fd9f3b4-1b44-47e6-bc18-83bdc7f1a646
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c6c4f74d-59e5-462f-85d6-41012429bc56
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ef512236-ed6b-4e11-b097-f2431fe2edd7
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 7002e623-4710-42f4-947b-2901bf9a83ea
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 1aed4028-95a6-4a17-867e-005a7748b6b6
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:54 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e6711249-f49f-4aac-b225-71120d3e3be3
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2535, MAE: 0.3051
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2398, MAE: 0.3170
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e90f2930-2f90-404a-be04-da5b1484cceb
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 8dc55c2a-fc93-4caf-b04d-59a8d2ad7247
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3311, MAE: 0.3587
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2939, MAE: 0.3279
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.3044, MAE: 0.3502
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.3705, MAE: 0.4089
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f00200dd-50fc-4fe1-ab10-1bf0504b390e
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3324, MAE: 0.3707
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3276d814-85eb-4e98-ada1-17e574aa7d24
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 85449a64-9745-4002-bc08-cc757256aa7e
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 32df202f-aec9-4768-8554-ba5813cd66ec
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.3668, MAE: 0.3899
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.1945, MAE: 0.2643
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.3019, MAE: 0.3679
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2565, MAE: 0.2937
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3663, MAE: 0.4185
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 495353c8-aa13-4c67-a35f-c511aa78849c
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b9ef7bb5-01ee-4c26-8a40-042d7e2e5643
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.3798, MAE: 0.4068
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4225, MAE: 0.4093
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3590, MAE: 0.3944
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.6285, MAE: 0.5842
+2025-03-30 13:07:55 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3231, MAE: 0.3728
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.3484, MAE: 0.3796
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2713, MAE: 0.3134
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2835, MAE: 0.3030
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2666, MAE: 0.3383
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.3971, MAE: 0.4029
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.2944, MAE: 0.3606
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 42639e3e-36e1-4bbb-b465-1b82a2060ee7
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 48cab2b6-4900-4904-bd78-975ec9e31fab
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message aa277181-91a1-45ad-8a18-93a3c5f0b2ea
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 9c89e420-6027-4e74-a692-26c793117fce
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message fe457ea9-e249-4e15-99e0-e87675147ba0
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 826c1ae3-30bd-4ebd-8c8e-a7e69bf5d8c5
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 01dbc9ec-30fc-4b26-a819-d2baba28ccd3
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message fc07b561-6644-47b6-a0bf-18297caf0e68
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message c8a85035-171a-4eb1-867b-21c17462c87b
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message ef0c47a7-b051-4c26-9fdd-d08a3067415d
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 2dfbc014-7074-4e56-8d0f-ba0ba3b17665
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message db72bf09-b6ea-4998-a957-a53bdf10f66b
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message f27d561e-2555-488b-bb73-8fe7915edeb2
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 34dc2fa2-07e7-41e0-a303-5ae8f030d02b
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - Received: train message 490a5406-4eba-4910-b4f8-3c63d3a3b49c
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 13:07:56 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 13:10:05 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 13:10:05 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:05 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:05 - [Cluster 2 - CLIENT] - INFO - Received: train message 7efe72a1-9888-4b22-b565-cbe566d677bb
+2025-03-30 13:10:05 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 13:10:06 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 13:10:06 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 13:10:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:06 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:06 - [Cluster 2 - CLIENT] - INFO - Received: train message 9142132b-fb19-4370-a352-3fb8e8c547f1
+2025-03-30 13:10:06 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 13:10:07 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:07 - [Cluster 2 - CLIENT] - INFO - Received: train message 316bd846-8367-4d04-8104-996d31a49aa6
+2025-03-30 13:10:07 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 13:10:06 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Received: train message 55249da5-183c-4a08-be6f-4eb685e42144
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Received: train message 5f7afd7c-e2d1-4dad-9c72-addbc423a73d
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Received: train message 11a85c25-42ff-4722-8c71-ca40cc280cd7
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - Received: train message 47ab48c2-db02-4c32-973f-b3527441b956
+2025-03-30 13:10:09 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - Received: train message 69c33192-89e6-4f21-b6a7-70a0a5b8bde2
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 13:10:10 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:11 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 13:10:11 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:11 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 13:10:11 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:10:12 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 13:10:12 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:16 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 13:11:16 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 13:11:17 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message a8e6f9cd-e240-4b8b-99e3-74cd726821f1
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f58143a7-3bbc-4aa0-87ff-3010f81b5c4b
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 4c7ab97a-2df2-4915-832a-908359c2c40e
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c848d9f0-7f30-409a-a1b1-3b4e3f1d265d
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 5a510729-ec29-4c76-8230-173a8346298a
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2b199eab-a6da-4610-a22f-90ef6248fac9
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 66c3fb04-f37b-483d-ab17-bafbdd1df050
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message af13e171-6c04-4ac8-b434-fc22ec98d882
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b81a07b7-73c6-4bdb-8cc6-c80770125128
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f5c61436-3f4c-41e6-8643-eb7a0a5226d8
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 1c9227a0-a4a8-4862-b500-efce542ac196
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 0aa5c680-a512-4e18-8e1a-5b80ff144366
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 6daceea7-79dc-4e55-8de1-5152980f29d5
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d81ef767-649f-4bb2-9d60-2bf30471c91b
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:18 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 15b71b45-8cb6-45cb-b4a7-2eaf1b1acd99
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.2876, MAE: 0.3510
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.3635, MAE: 0.3848
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message cb9f253e-9e03-4df0-abc7-2575faad2310
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3a850af8-397a-45b9-b827-6f738b686664
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3306, MAE: 0.3681
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2557, MAE: 0.2965
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.2963, MAE: 0.3658
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2812, MAE: 0.3047
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.3704, MAE: 0.3973
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 349d9e0f-3679-4f3b-8737-0afee646055e
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message d28c095b-2eab-4bbb-bc0b-455ead9147fd
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2372, MAE: 0.3143
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b499a420-701b-4c4d-9b1a-774adc455f41
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 9f1befaa-0a4f-4963-a181-1bbe7a1f4d74
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.2979, MAE: 0.3415
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3220, MAE: 0.3704
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.4094, MAE: 0.3951
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message fbd37b39-07d8-4b53-a0dc-11c4f5db903c
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3606, MAE: 0.3920
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 6c993ce5-5fab-406a-a1e3-f80c2ac57df4
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2685, MAE: 0.3109
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2651, MAE: 0.3335
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3612, MAE: 0.4120
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.3386, MAE: 0.3672
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.6034, MAE: 0.5578
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.1956, MAE: 0.2648
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.3548, MAE: 0.3964
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3278, MAE: 0.3503
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2532, MAE: 0.3047
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2914, MAE: 0.3218
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.3902, MAE: 0.3936
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 0dfeb177-ad94-4371-bf90-f9b7f33dd15a
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 537bd6ae-bff8-4310-9102-10942997f5b8
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 28caeba6-d9c6-4a1f-a58b-3e8240fc05e9
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 115] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 21f32dbb-9541-454a-bb95-4337eebed734
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 272b3291-cb6e-4ac0-90af-150d87370363
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 82af936d-6ea8-4ff5-b9dd-92e4aeb9229a
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message a0baeb7e-47d0-493f-ad34-50bca1cd2b72
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 3598a11b-2ade-412f-a86f-bdfa529c5e60
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 2d98213c-0397-4bf7-9599-695f4d6dd0a2
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 1f6ff3e6-114d-4fcc-b176-362ed2b7bdb9
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 1a84791f-a982-49e8-9c6d-752208ec3918
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 598] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 348] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 345] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 75c17c68-3069-42a1-b41c-5b5d8b117424
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message 8d771213-bbc4-4a84-b662-a88b5397b51a
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message e8f2b57f-b98a-4862-853c-441dbfedf654
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - Received: train message cb65e84a-8d2e-4384-916b-dd459d536a53
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 619] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 858] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 127] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 547] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 612] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 778] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 820] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 637] Starting local training.
+2025-03-30 13:11:19 - [Cluster 2 - CLIENT] - INFO - [Store 399] Starting local training.
+2025-03-30 13:13:34 - [Cluster 2 - CLIENT] - INFO - [Store 127] Local training complete.
+2025-03-30 13:13:34 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:34 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:34 - [Cluster 2 - CLIENT] - INFO - Received: train message 8a647bf9-a29d-47ef-8238-7704aca506c5
+2025-03-30 13:13:34 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Starting local training.
+2025-03-30 13:13:35 - [Cluster 2 - CLIENT] - INFO - [Store 619] Local training complete.
+2025-03-30 13:13:35 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:35 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:35 - [Cluster 2 - CLIENT] - INFO - Received: train message a1e035c3-d64f-4463-bc24-bb3809a1119f
+2025-03-30 13:13:35 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Starting local training.
+2025-03-30 13:13:36 - [Cluster 2 - CLIENT] - INFO - [Store 547] Local training complete.
+2025-03-30 13:13:36 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:36 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:36 - [Cluster 2 - CLIENT] - INFO - Received: train message c0febf7c-35cd-4f62-ba99-632eec405425
+2025-03-30 13:13:36 - [Cluster 2 - CLIENT] - INFO - [Store 283] Starting local training.
+2025-03-30 13:13:36 - [Cluster 2 - CLIENT] - INFO - [Store 612] Local training complete.
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - Received: train message d4f7f374-03cb-4720-baae-769ae2cfdbb5
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - [Store 820] Local training complete.
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - [Store 89] Starting local training.
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - Received: train message e8eaba22-0dc6-4203-8e82-f07898e251dd
+2025-03-30 13:13:37 - [Cluster 2 - CLIENT] - INFO - [Store 471] Starting local training.
+2025-03-30 13:13:38 - [Cluster 2 - CLIENT] - INFO - [Store 778] Local training complete.
+2025-03-30 13:13:38 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:38 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:38 - [Cluster 2 - CLIENT] - INFO - Received: train message 36290160-1ff8-4939-867a-298c30616bb5
+2025-03-30 13:13:38 - [Cluster 2 - CLIENT] - INFO - [Store 186] Starting local training.
+2025-03-30 13:13:38 - [Cluster 2 - CLIENT] - INFO - [Store 399] Local training complete.
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - Received: train message 748e9b37-babc-4b30-b7fd-fba5a79d38cf
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - [Store 719] Starting local training.
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - [Store 858] Local training complete.
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - [Store 598] Local training complete.
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - Received: train message 2adcc637-d374-4923-a53b-4cf7fd6f761f
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - [Store 144] Starting local training.
+2025-03-30 13:13:39 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:40 - [Cluster 2 - CLIENT] - INFO - [Store 345] Local training complete.
+2025-03-30 13:13:40 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:40 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Local training complete.
+2025-03-30 13:13:40 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:40 - [Cluster 2 - CLIENT] - INFO - [Store 637] Local training complete.
+2025-03-30 13:13:40 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:41 - [Cluster 2 - CLIENT] - INFO - [Store 348] Local training complete.
+2025-03-30 13:13:41 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:42 - [Cluster 2 - CLIENT] - INFO - [Store 115] Local training complete.
+2025-03-30 13:13:42 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:13:44 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Local training complete.
+2025-03-30 13:13:44 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:48 - [Cluster 2 - CLIENT] - INFO - [Store 471] Local training complete.
+2025-03-30 13:17:48 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:48 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Local training complete.
+2025-03-30 13:17:48 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - [Store 283] Local training complete.
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - [Store 719] Local training complete.
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Local training complete.
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - [Store 186] Local training complete.
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - [Store 144] Local training complete.
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - [Store 89] Local training complete.
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3a2fd886-d246-41cc-b4e1-b1a448c1c3c1
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message e2465a95-ceb0-43ab-bf59-85ed905f1e6f
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b0eac608-c906-4eda-b6fe-9a54832d02c7
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b8e4a690-7397-4775-92f0-a4f0742da673
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message c516b7f2-2c62-4ce1-9614-87c7379182de
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message b61b29d8-3543-4db7-aec9-d9c986e1ed7a
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 4a1b23cb-e62a-4a8f-a33f-186355c1ee00
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 183abb01-7bd9-441a-bfec-c4ce7daae48a
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 83b67e88-fe11-4004-9928-8ad1f7284c50
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 20bde78b-2983-43a0-95ca-cbc46ff59653
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ded013d1-01da-4b57-a68d-a2ff3adc6580
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 87df12af-abc6-48e6-a465-960917165822
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message f78da05b-793b-46d5-a5c1-45c87980d13f
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 86c0767a-b9a8-4915-b9c4-94a674ee6041
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:49 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 43e1ae77-8ae0-46e5-a8bc-20e2d3928546
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 1038] Evaluation - Loss: 0.2487, MAE: 0.3097
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 3c224cfc-1cba-4a5d-8147-98b461b74b71
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 1049] Evaluation - Loss: 0.3163, MAE: 0.3634
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 2dd10b84-43cf-4b45-bcc3-203e6084ba2f
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 283] Evaluation - Loss: 0.3618, MAE: 0.3999
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message ec49ad3f-e376-4ca2-b29e-8edd6b028aab
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 186] Evaluation - Loss: 0.3246, MAE: 0.3517
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 5f8689d6-6928-4c00-a505-f7731ab0b4cb
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 471] Evaluation - Loss: 0.2602, MAE: 0.3137
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 966759ed-5cbf-45bf-8671-0dfbce24c302
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 778] Evaluation - Loss: 0.2848, MAE: 0.3198
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message faedc023-158c-428c-aeff-f75a06f0d90d
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 127] Evaluation - Loss: 0.3553, MAE: 0.3873
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 64782e49-04d5-4c35-bed2-a1005321991d
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 598] Evaluation - Loss: 0.2687, MAE: 0.3065
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Received: evaluate message 5cae108e-59f1-48f2-85d0-ef807a7aba5c
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 858] Evaluation - Loss: 0.3401, MAE: 0.3948
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 612] Evaluation - Loss: 0.3201, MAE: 0.3734
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 1067] Evaluation - Loss: 0.3267, MAE: 0.3652
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 637] Evaluation - Loss: 0.2852, MAE: 0.3372
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 820] Evaluation - Loss: 0.2475, MAE: 0.2996
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 345] Evaluation - Loss: 0.2316, MAE: 0.3106
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 89] Evaluation - Loss: 0.2774, MAE: 0.3465
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 399] Evaluation - Loss: 0.3924, MAE: 0.3907
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 144] Evaluation - Loss: 0.2612, MAE: 0.3295
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 348] Evaluation - Loss: 0.1942, MAE: 0.2599
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 547] Evaluation - Loss: 0.3589, MAE: 0.3896
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 619] Evaluation - Loss: 0.3485, MAE: 0.3994
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - [Store 115] Evaluation - Loss: 0.3868, MAE: 0.3985
+2025-03-30 13:17:50 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - [Store 719] Evaluation - Loss: 0.2960, MAE: 0.3741
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - [Store 1056] Evaluation - Loss: 0.5876, MAE: 0.5425
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Sent reply
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message c6b29e83-d910-4d9d-9286-638a224ffc71
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 6d89f20b-43ab-43d7-82cf-411f4113a07e
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 986a5a80-3970-4d77-ba47-50a0230c0646
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 156db133-c17e-4ab7-ba67-fe7c0ed14042
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 2d271e52-e622-4e65-bf70-9bfb2617a87b
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 9fbc9a6f-c9a9-4f29-b6f5-aa0f27d7e561
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 181013e4-84f7-4d6d-9706-93005e98fcb6
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 718fd11b-6fd9-4133-bc45-14ec4b48f6ea
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 102a7212-e96b-4eed-8c45-a31ab22de878
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 2e9f32e3-6e37-4f9a-b5f3-c37612dd21da
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 3bb47620-35a1-4de8-b020-b8c356ca3995
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 137b23cb-528e-4089-98e0-14cb816ff602
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message e4470803-5584-448d-98b9-e818eced3907
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message f834045f-6aff-42d8-bce2-4aa3fdf0a6b5
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message c394a8b6-99df-4b6a-9ac2-766fe623f357
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message e912d9af-c998-45b1-a021-bf768a323b96
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 76bfdfef-3a1b-4ac0-af68-e91b2d73923e
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message e587e5aa-4248-4699-b687-c4bea596806f
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message d8c3881e-1a5f-4bc3-84b2-c9ee23296fb0
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 898ed92c-db2c-4ef8-a9d9-2b4134f7b1cd
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message ecaee017-0c20-4338-892b-8deec40173d9
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 8b0d982d-5acd-4595-aeb6-8fce6bbb8fb3
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - 
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Received: reconnect message 475f7ad8-7ec5-429c-aa93-6869be60bfd0
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - DEBUG - gRPC channel closed
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down
+2025-03-30 13:17:51 - [Cluster 2 - CLIENT] - INFO - Disconnect and shut down

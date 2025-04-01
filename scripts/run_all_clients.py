@@ -6,11 +6,11 @@ import time
 import random
 from typing import List
 from pathlib import Path
-from configs.logging_config import get_run_timestamp_dir
+from configs.logging_config import get_run_timestamp_dir, clear_existing_handlers
 
 # Constants
 MAX_CONCURRENT_CLIENTS = 10         # Launch 10 at a time
-FRACTION_SAMPLE = 0.05             # 5% of each cluster
+FIXED_SAMPLE_SIZE = 30           # Sample 30 stores per cluster
 
 def stream_process_output(proc: subprocess.Popen, name: str):
     """Continuously read lines from proc.stdout and log them in real time (non-blocking)."""
@@ -45,17 +45,24 @@ def launch_client(cluster_id: int, store_id: int, log_file_path: str) -> subproc
         return None
 
 def main():
-    run_dir = get_run_timestamp_dir()
+    # ----------------------------------------------------------------------
+    # 1) Clear existing handlers to avoid stacking them if run multiple times
+    clear_existing_handlers()
+
+    # 2) Set up a single logging configuration for the entire script
+    run_dir = get_run_timestamp_dir()  # uses the environment-based timestamp directory
+    log_file_path = run_dir / "run_all_clients.log"
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s - %(levelname)s - %(message)s",
         handlers=[
-            logging.FileHandler(run_dir / "run_all_clients.log"),
+            logging.FileHandler(log_file_path),
             logging.StreamHandler()
         ]
     )
+    # ----------------------------------------------------------------------
 
-    FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data"
+    FEDERATED_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "federated_data_scaled"
     if not FEDERATED_DATA_DIR.exists():
         logging.error(f"Federated data directory not found: {FEDERATED_DATA_DIR}")
         return
@@ -76,6 +83,7 @@ def main():
 
         logging.info(f"=== Processing Cluster {cluster_id} ===")
 
+        # Each cluster can have its own client log file name (passed to run_client.py)
         cluster_log_filename = f"clients_cluster_{cluster_id}.log"
         store_files = sorted(cluster_folder.glob("store_*.pkl"))
 
@@ -85,9 +93,9 @@ def main():
             continue
 
         # 1) Calculate sample_count at 5%
-        sample_count = max(1, int(num_total * FRACTION_SAMPLE))
+        sample_count = min(FIXED_SAMPLE_SIZE, num_total)
         logging.info(f"Cluster {cluster_id} has {num_total} stores in total.")
-        logging.info(f"Sampling 5% => {sample_count} stores to be launched for cluster {cluster_id}.")
+        logging.info(f"Fixed sample size => {sample_count} stores to be launched for cluster {cluster_id}.")
 
         # 2) Actually pick the subset
         if sample_count < num_total:
@@ -104,7 +112,7 @@ def main():
 
         launched_count_for_cluster = 0
 
-        # 4) Now LAUNCH the sampled files in sets of 10
+        # 4) Launch the sampled files in sets of 10
         for i, data_file in enumerate(selected_files, start=1):
             store_id = int(data_file.stem.replace("store_", ""))
 
@@ -118,6 +126,7 @@ def main():
             while len(active_processes) >= MAX_CONCURRENT_CLIENTS:
                 logging.info(f"At concurrency limit ({MAX_CONCURRENT_CLIENTS}). Waiting for some to free up.")
                 time.sleep(2)
+                # Remove finished processes from active_processes
                 active_processes = [p for p in active_processes if p.poll() is None]
 
             # Optional small delay
@@ -130,16 +139,17 @@ def main():
 
     # After all clusters
     logging.info(f"All clusters done. Total clients launched across clusters: {total_launched}")
-    logging.info("Waiting for clients to remain alive until server finishes FL rounds...")
+    logging.info("Waiting for client processes to remain alive until the server finishes FL rounds...")
 
-    # Final wait until all client processes exit (once the server is done)
+    # Final wait until all client processes exit
     while any(p.poll() is None for p in active_processes):
         still_running = sum(p.poll() is None for p in active_processes)
         logging.info(f"{still_running} clients still running...")
         time.sleep(5)
         active_processes = [p for p in active_processes if p.poll() is None]
 
-    logging.info("All done! All sampled clients have exited (server ended).")
+    logging.info("All done! All sampled clients have exited (the server ended).")
 
 if __name__ == "__main__":
     main()
+

@@ -1,0 +1,107 @@
+2025-03-30 10:17:21 - [Server 2] - INFO - [Server 2] Logging initialized -> ../logs/run_20250330_101705/server_cluster_2.log
+2025-03-30 10:17:21 - [Server 2] - INFO - Starting Flower server, config: num_rounds=10, no round_timeout
+2025-03-30 10:17:21 - [Server 2] - INFO - Flower ECE: gRPC server running (10 rounds), SSL is disabled
+2025-03-30 10:17:21 - [Server 2] - INFO - [INIT]
+2025-03-30 10:17:21 - [Server 2] - INFO - Requesting initial parameters from one random client
+2025-03-30 12:42:34 - [Server 2] - INFO - Received initial parameters from one random client
+2025-03-30 12:42:34 - [Server 2] - INFO - Starting evaluation of initial global parameters
+2025-03-30 12:42:34 - [Server 2] - INFO - Evaluation returned no results (`None`)
+2025-03-30 12:42:34 - [Server 2] - INFO - 
+2025-03-30 12:42:34 - [Server 2] - INFO - [ROUND 1]
+2025-03-30 12:42:35 - [Server 2] - INFO - configure_fit: strategy sampled 9 clients (out of 9)
+2025-03-30 12:42:36 - [Server 2] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-03-30 12:43:55 - [Server 2] - INFO - aggregate_fit: received 9 results and 0 failures
+2025-03-30 12:43:55 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 12:43:59 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 12:43:59 - [Server 2] - INFO - 
+2025-03-30 12:43:59 - [Server 2] - INFO - [ROUND 2]
+2025-03-30 12:43:59 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 12:47:29 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 12:47:29 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 12:47:31 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 12:47:31 - [Server 2] - INFO - 
+2025-03-30 12:47:31 - [Server 2] - INFO - [ROUND 3]
+2025-03-30 12:47:31 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 12:50:53 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 12:50:53 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 12:50:55 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 12:50:55 - [Server 2] - INFO - 
+2025-03-30 12:50:55 - [Server 2] - INFO - [ROUND 4]
+2025-03-30 12:50:55 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 12:54:18 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 12:54:18 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 12:54:20 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 12:54:20 - [Server 2] - INFO - 
+2025-03-30 12:54:20 - [Server 2] - INFO - [ROUND 5]
+2025-03-30 12:54:20 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 12:57:43 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 12:57:43 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 12:57:45 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 12:57:45 - [Server 2] - INFO - 
+2025-03-30 12:57:45 - [Server 2] - INFO - [ROUND 6]
+2025-03-30 12:57:45 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 13:01:07 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 13:01:07 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 13:01:08 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 13:01:08 - [Server 2] - INFO - 
+2025-03-30 13:01:08 - [Server 2] - INFO - [ROUND 7]
+2025-03-30 13:01:08 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 13:04:30 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 13:04:30 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 13:04:32 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 13:04:32 - [Server 2] - INFO - 
+2025-03-30 13:04:32 - [Server 2] - INFO - [ROUND 8]
+2025-03-30 13:04:32 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 13:07:54 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 13:07:54 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 13:07:56 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 13:07:56 - [Server 2] - INFO - 
+2025-03-30 13:07:56 - [Server 2] - INFO - [ROUND 9]
+2025-03-30 13:07:56 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 13:11:18 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 13:11:18 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 13:11:19 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 13:11:19 - [Server 2] - INFO - 
+2025-03-30 13:11:19 - [Server 2] - INFO - [ROUND 10]
+2025-03-30 13:11:19 - [Server 2] - INFO - configure_fit: strategy sampled 23 clients (out of 23)
+2025-03-30 13:17:49 - [Server 2] - INFO - aggregate_fit: received 23 results and 0 failures
+2025-03-30 13:17:49 - [Server 2] - INFO - configure_evaluate: strategy sampled 23 clients (out of 23)
+2025-03-30 13:17:51 - [Server 2] - INFO - aggregate_evaluate: received 23 results and 0 failures
+2025-03-30 13:17:51 - [Server 2] - INFO - 
+2025-03-30 13:17:51 - [Server 2] - INFO - [SUMMARY]
+2025-03-30 13:17:51 - [Server 2] - INFO - Run finished 10 round(s) in 1938.56s
+2025-03-30 13:17:51 - [Server 2] - INFO - 	History (loss, distributed):
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 1: 0.5816139539946681
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 2: 0.4034528375967689
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 3: 0.37785640488500183
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 4: 0.36171976638876874
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 5: 0.3467505613098974
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 6: 0.33893772052681964
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 7: 0.33355536668196967
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 8: 0.32981739679108496
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 9: 0.32445446304653003
+2025-03-30 13:17:51 - [Server 2] - INFO - 		round 10: 0.3162851787131766
+2025-03-30 13:17:51 - [Server 2] - INFO - 	History (metrics, distributed, evaluate):
+2025-03-30 13:17:51 - [Server 2] - INFO - 	{'mae': [(1, 0.5782583718714507),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (2, 0.4360416091006735),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (3, 0.4123264304969622),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (4, 0.39959595255229774),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (5, 0.3887083076912424),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (6, 0.38129070530767023),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (7, 0.3722411666227423),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (8, 0.36686636572298786),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (9, 0.3606346508731013),
+2025-03-30 13:17:51 - [Server 2] - INFO - 	         (10, 0.35928407829740766)]}
+2025-03-30 13:17:51 - [Server 2] - INFO - 
