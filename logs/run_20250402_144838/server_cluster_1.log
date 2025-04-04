@@ -1,0 +1,94 @@
+2025-04-02 14:49:20 - [Server 1] - INFO - [Server 1] Logging initialized -> ../logs/run_20250402_144838/server_cluster_1.log
+2025-04-02 14:49:20 - [Server 1] - INFO - Starting Flower server, config: num_rounds=10, no round_timeout
+2025-04-02 14:49:20 - [Server 1] - INFO - Flower ECE: gRPC server running (10 rounds), SSL is disabled
+2025-04-02 14:49:20 - [Server 1] - INFO - [INIT]
+2025-04-02 14:49:20 - [Server 1] - INFO - Requesting initial parameters from one random client
+2025-04-02 18:47:18 - [Server 1] - INFO - Received initial parameters from one random client
+2025-04-02 18:47:18 - [Server 1] - INFO - Starting evaluation of initial global parameters
+2025-04-02 18:47:18 - [Server 1] - INFO - Evaluation returned no results (`None`)
+2025-04-02 18:47:18 - [Server 1] - INFO - 
+2025-04-02 18:47:18 - [Server 1] - INFO - [ROUND 1]
+2025-04-02 18:48:09 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 19:15:12 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 19:15:12 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 19:15:19 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 19:15:19 - [Server 1] - INFO - 
+2025-04-02 19:15:19 - [Server 1] - INFO - [ROUND 2]
+2025-04-02 19:15:19 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 19:43:31 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 19:43:31 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 19:43:35 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 19:43:35 - [Server 1] - INFO - 
+2025-04-02 19:43:35 - [Server 1] - INFO - [ROUND 3]
+2025-04-02 19:43:35 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 20:12:39 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 20:12:39 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 20:12:43 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 20:12:43 - [Server 1] - INFO - 
+2025-04-02 20:12:43 - [Server 1] - INFO - [ROUND 4]
+2025-04-02 20:12:43 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 20:41:41 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 20:41:41 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 20:41:45 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 20:41:45 - [Server 1] - INFO - 
+2025-04-02 20:41:45 - [Server 1] - INFO - [ROUND 5]
+2025-04-02 20:41:45 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 21:06:15 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 21:06:15 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 21:06:18 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 21:06:18 - [Server 1] - INFO - 
+2025-04-02 21:06:18 - [Server 1] - INFO - [ROUND 6]
+2025-04-02 21:06:18 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 21:26:37 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 21:26:37 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 21:26:40 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 21:26:40 - [Server 1] - INFO - 
+2025-04-02 21:26:40 - [Server 1] - INFO - [ROUND 7]
+2025-04-02 21:26:40 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 21:47:13 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 21:47:13 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 21:47:16 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 21:47:16 - [Server 1] - INFO - 
+2025-04-02 21:47:16 - [Server 1] - INFO - [ROUND 8]
+2025-04-02 21:47:16 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 22:07:43 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 22:07:43 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 22:07:45 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 22:07:45 - [Server 1] - INFO - 
+2025-04-02 22:07:45 - [Server 1] - INFO - [ROUND 9]
+2025-04-02 22:07:45 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 22:31:57 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 22:31:57 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 22:32:00 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 22:32:00 - [Server 1] - INFO - 
+2025-04-02 22:32:00 - [Server 1] - INFO - [ROUND 10]
+2025-04-02 22:32:00 - [Server 1] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-02 23:17:07 - [Server 1] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-02 23:17:07 - [Server 1] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-02 23:17:10 - [Server 1] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-02 23:17:10 - [Server 1] - INFO - 
+2025-04-02 23:17:10 - [Server 1] - INFO - [SUMMARY]
+2025-04-02 23:17:10 - [Server 1] - INFO - Run finished 10 round(s) in 14988.10s
+2025-04-02 23:17:10 - [Server 1] - INFO - 	History (loss, distributed):
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 1: 0.4756079544623693
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 2: 0.30066167414188383
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 3: 0.2956597189108531
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 4: 0.29593949715296425
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 5: 0.267207403977712
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 6: 0.282491102317969
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 7: 0.2828930988907814
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 8: 0.2966527680555979
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 9: 0.28355511178572973
+2025-04-02 23:17:10 - [Server 1] - INFO - 		round 10: 0.2825587923328082
+2025-04-02 23:17:10 - [Server 1] - INFO - 	History (metrics, distributed, evaluate):
+2025-04-02 23:17:10 - [Server 1] - INFO - 	{'mae': [(1, 0.5115843315919241),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (2, 0.35250337223211914),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (3, 0.363450746734937),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (4, 0.3758135100205739),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (5, 0.3298722147941589),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (6, 0.3529321064551671),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (7, 0.35186872084935505),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (8, 0.36722859243551886),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (9, 0.34458345770835874),
+2025-04-02 23:17:10 - [Server 1] - INFO - 	         (10, 0.34028086562951404)]}
+2025-04-02 23:17:10 - [Server 1] - INFO - 

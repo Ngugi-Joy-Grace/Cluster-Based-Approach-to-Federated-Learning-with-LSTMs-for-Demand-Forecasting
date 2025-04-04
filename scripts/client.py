@@ -95,7 +95,7 @@ class StoreClient(fl.client.NumPyClient):
         self.model.fit(
             self.x_train,
             self.y_train,
-            epochs=10,
+            epochs=30,
             batch_size=32,
             verbose=2
         )
@@ -109,7 +109,7 @@ class StoreClient(fl.client.NumPyClient):
         Evaluate the local model on the validation set.
         """
         self.model.set_weights(parameters)
-        loss, mae = self.model.evaluate(self.x_val, self.y_val, verbose=0)
+        loss, mae = self.model.evaluate(self.x_val, self.y_val, verbose=2)
         logging.info(f"[Store {self.store_id}] Evaluation - Loss: {loss:.4f}, MAE: {mae:.4f}")
 
         # Return (loss, number_of_validation_samples, metrics_dict)

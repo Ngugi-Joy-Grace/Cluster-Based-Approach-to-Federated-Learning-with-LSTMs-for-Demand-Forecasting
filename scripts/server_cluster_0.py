@@ -49,6 +49,6 @@ if __name__ == "__main__":
      # Start Flower server
     fl.server.start_server(
         server_address="127.0.0.1:8080",
-        config=fl.server.ServerConfig(num_rounds=30),
+        config=fl.server.ServerConfig(num_rounds=10),
         strategy=strategy
     )

@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
     # Start the server application listening at 127.0.0.1:8081
     fl.server.start_server(
-        config=fl.server.ServerConfig(num_rounds=30),
+        config=fl.server.ServerConfig(num_rounds=10),
         server_address="127.0.0.1:8081",
         strategy = strategy
     )

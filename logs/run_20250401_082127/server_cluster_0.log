@@ -1,0 +1,553 @@
+2025-04-01 08:21:47 - [Server 0] - INFO - [Server 0] Logging initialized -> ../logs/run_20250401_082127/server_cluster_0.log
+2025-04-01 08:21:47 - [Server 0] - INFO - Starting Flower server, config: num_rounds=30, no round_timeout
+2025-04-01 08:21:47 - [Server 0] - INFO - Flower ECE: gRPC server running (30 rounds), SSL is disabled
+2025-04-01 08:21:47 - [Server 0] - INFO - [INIT]
+2025-04-01 08:21:47 - [Server 0] - INFO - Requesting initial parameters from one random client
+2025-04-01 08:21:55 - [Server 0] - INFO - Received initial parameters from one random client
+2025-04-01 08:21:55 - [Server 0] - INFO - Starting evaluation of initial global parameters
+2025-04-01 08:21:55 - [Server 0] - INFO - Evaluation returned no results (`None`)
+2025-04-01 08:21:55 - [Server 0] - INFO - 
+2025-04-01 08:21:55 - [Server 0] - INFO - [ROUND 1]
+2025-04-01 08:21:58 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 08:29:23 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 08:29:23 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 08:29:28 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 08:29:28 - [Server 0] - INFO - 
+2025-04-01 08:29:28 - [Server 0] - INFO - [ROUND 2]
+2025-04-01 08:29:28 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 08:36:39 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 08:36:39 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 08:36:42 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 08:36:42 - [Server 0] - INFO - 
+2025-04-01 08:36:42 - [Server 0] - INFO - [ROUND 3]
+2025-04-01 08:36:42 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 08:43:35 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 08:43:35 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 08:43:37 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 08:43:37 - [Server 0] - INFO - 
+2025-04-01 08:43:37 - [Server 0] - INFO - [ROUND 4]
+2025-04-01 08:43:37 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 08:50:29 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 08:50:29 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 08:50:31 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 08:50:31 - [Server 0] - INFO - 
+2025-04-01 08:50:31 - [Server 0] - INFO - [ROUND 5]
+2025-04-01 08:50:31 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 08:57:48 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 08:57:49 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 08:57:52 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 08:57:52 - [Server 0] - INFO - 
+2025-04-01 08:57:52 - [Server 0] - INFO - [ROUND 6]
+2025-04-01 08:57:52 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 09:04:52 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 09:04:52 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 09:04:54 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 09:04:54 - [Server 0] - INFO - 
+2025-04-01 09:04:54 - [Server 0] - INFO - [ROUND 7]
+2025-04-01 09:04:54 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 09:12:11 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 09:12:11 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 09:12:15 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 09:12:15 - [Server 0] - INFO - 
+2025-04-01 09:12:15 - [Server 0] - INFO - [ROUND 8]
+2025-04-01 09:12:15 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 09:21:28 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 09:21:28 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 09:21:31 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 09:21:31 - [Server 0] - INFO - 
+2025-04-01 09:21:31 - [Server 0] - INFO - [ROUND 9]
+2025-04-01 09:21:31 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 09:31:08 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 09:31:08 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 09:31:12 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 09:31:12 - [Server 0] - INFO - 
+2025-04-01 09:31:12 - [Server 0] - INFO - [ROUND 10]
+2025-04-01 09:31:12 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 09:40:49 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 09:40:49 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 09:40:53 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 09:40:53 - [Server 0] - INFO - 
+2025-04-01 09:40:53 - [Server 0] - INFO - [ROUND 11]
+2025-04-01 09:40:53 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 09:50:30 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 09:50:30 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 09:50:34 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 09:50:34 - [Server 0] - INFO - 
+2025-04-01 09:50:34 - [Server 0] - INFO - [ROUND 12]
+2025-04-01 09:50:34 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 10:00:57 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 10:00:57 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 10:01:01 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 10:01:01 - [Server 0] - INFO - 
+2025-04-01 10:01:01 - [Server 0] - INFO - [ROUND 13]
+2025-04-01 10:01:01 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 10:09:40 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 10:09:40 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 10:09:43 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 10:09:43 - [Server 0] - INFO - 
+2025-04-01 10:09:43 - [Server 0] - INFO - [ROUND 14]
+2025-04-01 10:09:43 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 10:17:50 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 10:17:50 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 10:17:53 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 10:17:53 - [Server 0] - INFO - 
+2025-04-01 10:17:53 - [Server 0] - INFO - [ROUND 15]
+2025-04-01 10:17:53 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 10:27:00 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 10:27:01 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 10:27:05 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 10:27:05 - [Server 0] - INFO - 
+2025-04-01 10:27:05 - [Server 0] - INFO - [ROUND 16]
+2025-04-01 10:27:05 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 10:36:58 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 10:36:58 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 10:37:02 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 10:37:02 - [Server 0] - INFO - 
+2025-04-01 10:37:02 - [Server 0] - INFO - [ROUND 17]
+2025-04-01 10:37:02 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 10:46:31 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 10:46:31 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 10:46:34 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 10:46:34 - [Server 0] - INFO - 
+2025-04-01 10:46:34 - [Server 0] - INFO - [ROUND 18]
+2025-04-01 10:46:34 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 10:55:54 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 10:55:54 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 10:55:58 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 10:55:58 - [Server 0] - INFO - 
+2025-04-01 10:55:58 - [Server 0] - INFO - [ROUND 19]
+2025-04-01 10:55:58 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:04:13 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:04:13 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:04:15 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:04:15 - [Server 0] - INFO - 
+2025-04-01 11:04:15 - [Server 0] - INFO - [ROUND 20]
+2025-04-01 11:04:15 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:11:16 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:11:16 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:11:19 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:11:19 - [Server 0] - INFO - 
+2025-04-01 11:11:19 - [Server 0] - INFO - [ROUND 21]
+2025-04-01 11:11:19 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:18:07 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:18:07 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:18:09 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:18:09 - [Server 0] - INFO - 
+2025-04-01 11:18:09 - [Server 0] - INFO - [ROUND 22]
+2025-04-01 11:18:09 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:25:08 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:25:08 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:25:10 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:25:10 - [Server 0] - INFO - 
+2025-04-01 11:25:10 - [Server 0] - INFO - [ROUND 23]
+2025-04-01 11:25:10 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:32:30 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:32:30 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:32:33 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:32:33 - [Server 0] - INFO - 
+2025-04-01 11:32:33 - [Server 0] - INFO - [ROUND 24]
+2025-04-01 11:32:33 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:39:30 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:39:30 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:39:33 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:39:33 - [Server 0] - INFO - 
+2025-04-01 11:39:33 - [Server 0] - INFO - [ROUND 25]
+2025-04-01 11:39:33 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:47:21 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:47:21 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:47:24 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:47:24 - [Server 0] - INFO - 
+2025-04-01 11:47:24 - [Server 0] - INFO - [ROUND 26]
+2025-04-01 11:47:24 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 11:54:43 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 11:54:43 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 11:54:46 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 11:54:46 - [Server 0] - INFO - 
+2025-04-01 11:54:46 - [Server 0] - INFO - [ROUND 27]
+2025-04-01 11:54:46 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 12:01:50 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 12:01:50 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 12:01:53 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 12:01:53 - [Server 0] - INFO - 
+2025-04-01 12:01:53 - [Server 0] - INFO - [ROUND 28]
+2025-04-01 12:01:53 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 12:08:39 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 12:08:39 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 12:08:42 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 12:08:42 - [Server 0] - INFO - 
+2025-04-01 12:08:42 - [Server 0] - INFO - [ROUND 29]
+2025-04-01 12:08:42 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 12:17:54 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 12:17:54 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 12:17:56 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 12:17:56 - [Server 0] - INFO - 
+2025-04-01 12:17:56 - [Server 0] - INFO - [ROUND 30]
+2025-04-01 12:17:56 - [Server 0] - INFO - configure_fit: strategy sampled 30 clients (out of 30)
+2025-04-01 12:25:23 - [Server 0] - INFO - aggregate_fit: received 30 results and 0 failures
+2025-04-01 12:25:24 - [Server 0] - INFO - configure_evaluate: strategy sampled 30 clients (out of 30)
+2025-04-01 12:25:26 - [Server 0] - INFO - aggregate_evaluate: received 30 results and 0 failures
+2025-04-01 12:25:26 - [Server 0] - INFO - 
+2025-04-01 12:25:26 - [Server 0] - INFO - [SUMMARY]
+2025-04-01 12:25:26 - [Server 0] - INFO - Run finished 30 round(s) in 14610.75s
+2025-04-01 12:25:26 - [Server 0] - INFO - 	History (loss, distributed):
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 1: 0.7209142416715622
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 2: 0.449521067738533
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 3: 0.4428648779789607
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 4: 0.43997023850679395
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 5: 0.4390887707471848
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 6: 0.42217182914415996
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 7: 0.39679958621660866
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 8: 0.35992486278216046
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 9: 0.372631332774957
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 10: 0.3581171751022339
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 11: 0.359648722410202
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 12: 0.33406423032283783
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 13: 0.34677406897147495
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 14: 0.3705556218822797
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 15: 0.3678225134809812
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 16: 0.36429424087206524
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 17: 0.35192306836446124
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 18: 0.36224828561147054
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 19: 0.3413611645499865
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 20: 0.34981168806552887
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 21: 0.3469621017575264
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 22: 0.34009297043085096
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 23: 0.3409448166688283
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 24: 0.3329620748758316
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 25: 0.32576917856931686
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 26: 0.3289538045724233
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 27: 0.33192706604798633
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 28: 0.3248476803302765
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 29: 0.33101669400930406
+2025-04-01 12:25:26 - [Server 0] - INFO - 		round 30: 0.31319711208343504
+2025-04-01 12:25:26 - [Server 0] - INFO - 	History (metrics, distributed, evaluate):
+2025-04-01 12:25:26 - [Server 0] - INFO - 	{'mae': [(1, 0.6405186106761297),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (2, 0.44833236237366986),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (3, 0.4344566196203231),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (4, 0.4268660932779313),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (5, 0.42601490616798393),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (6, 0.4167328228553136),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (7, 0.4111575692892075),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (8, 0.40665179590384165),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (9, 0.4130509088436762),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (10, 0.3890007078647613),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (11, 0.3903181691964467),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (12, 0.3826005965471268),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (13, 0.3818343500296274),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (14, 0.394661620259285),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (15, 0.4067552914222081),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (16, 0.38922251562277477),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (17, 0.3843257437149683),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (18, 0.3876677513122559),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (19, 0.37918735047181457),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (20, 0.37710461517175037),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (21, 0.3822768479585648),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (22, 0.38324923813343037),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (23, 0.38408834536870323),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (24, 0.3696121752262116),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (25, 0.3811578154563903),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (26, 0.38223458429177604),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (27, 0.39050960342089336),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (28, 0.36451884408791857),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (29, 0.38383406003316245),
+2025-04-01 12:25:26 - [Server 0] - INFO - 	         (30, 0.36136613388856254)]}
+2025-04-01 12:25:26 - [Server 0] - INFO - 
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:26 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
+2025-04-01 12:25:27 - [Server 0] - ERROR - Exception iterating responses: 
+Traceback (most recent call last):
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/grpc/_server.py", line 654, in _take_response_from_response_iterator
+    return next(response_iterator), True
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/flower_service_servicer.py", line 119, in Join
+    ins_wrapper: InsWrapper = next(ins_wrapper_iterator)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 166, in ins_wrapper_iterator
+    self._raise_if_closed()
+  File "/Users/joyngugi/PycharmProjects/cGAN_LSTM_Clustering_FLFramework/.venv1/lib/python3.12/site-packages/flwr/server/superlink/fleet/grpc_bidi/grpc_bridge.py", line 82, in _raise_if_closed
+    raise GrpcBridgeClosed()
+flwr.server.superlink.fleet.grpc_bidi.grpc_bridge.GrpcBridgeClosed
